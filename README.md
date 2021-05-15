@@ -19,7 +19,7 @@
 ![]()
 ![]()
 
-Here are some ideas to get you started:
+## Misc
 
 - 🔭 I’m currently working on Ongakken's next game
 - 🌱 I’m currently learning Java
