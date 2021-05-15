@@ -13,6 +13,7 @@
 ## Technologies I use
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=0000ff)
+![](https://img.shields.io/badge/Distro-Ongakken%20TermOS-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&color=0000ff)
