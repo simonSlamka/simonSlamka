@@ -1,13 +1,14 @@
 # Hey, people <img src="https://github.com/simonSlamka/simonSlamka/blob/e4078e05fdffa14677c1554b6b1591345330ddf7/hand.gif" width="40px">
 
 ## Basic stats
-[![Simtoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&show_icons=true)](https://ongakken.com/)
 
 <a href="https://ongakken.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&show_icons=true" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&hide=html,tex,matlab,dataweave&layout=compact)](https://ongakken.com/)
+<a href="https://ongakken.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&hide=html,tex,matlab,dataweave&layout=compact" />
+</a>
 
 <a href="https://github.com/simonSlamka/adlerka-poznamky">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simonSlamka&theme=chartreuse-dark&repo=adlerka-poznamky" />
