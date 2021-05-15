@@ -2,8 +2,9 @@
 
 [![Simtoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&show_icons=true)](https://ongakken.com/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&layout=compact)](https://ongakken.com/)
-<a href="https://github.com/ongakken/terminalInsanityCLI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ongakken&repo=terminalInsanityCLI" />
+
+<a href="https://github.com/simonSlamka/adlerka-poznamky">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simonSlamka&repo=adlerka-poznamky" />
 </a>
 
 
