@@ -3,11 +3,11 @@
 ## Basic stats
 
 <a href="https://ongakken.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&count_private=true&show_icons=true" />
 </a>
 
 <a href="https://ongakken.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&count_private=true&hide=html,tex,matlab,dataweave&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&hide=html,tex,matlab,dataweave&layout=compact" />
 </a>
 
 <a href="https://github.com/simonSlamka/adlerka-poznamky">
