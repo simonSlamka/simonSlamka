@@ -7,9 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simonSlamka&theme=chartreuse-dark&repo=adlerka-poznamky" />
 </a>
 
-<br/>
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0000ff)
+![](https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff)
 
 <!--
 **simonSlamka/simonSlamka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
