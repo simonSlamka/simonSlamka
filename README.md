@@ -1,4 +1,4 @@
-# Hey, people <img src="https://github.com/simonSlamka/simonSlamka/blob/e4078e05fdffa14677c1554b6b1591345330ddf7/hand.gif" width="40px">
+# Hey, people <img src="https://github.com/simonSlamka/simonSlamka/blob/e4078e05fdffa14677c1554b6b1591345330ddf7/v.gif" width="40px">
 
 ## Basic stats
 
