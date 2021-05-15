@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Simtoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&show_icons=true)](https://ongakken.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&layout=compact)](https://ongakken.com/)
+
 
 <!--
 **simonSlamka/simonSlamka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
