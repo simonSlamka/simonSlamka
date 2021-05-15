@@ -2,7 +2,7 @@
 
 ## Basic stats
 [![Simtoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&show_icons=true)](https://ongakken.com/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&layout=compact)](https://ongakken.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&hide=html,tex&layout=compact)](https://ongakken.com/)
 
 <a href="https://github.com/simonSlamka/adlerka-poznamky">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simonSlamka&theme=chartreuse-dark&repo=adlerka-poznamky" />
@@ -18,11 +18,6 @@
 ![](https://img.shields.io/badge/Cloud-linode-informational?style=flat&color=0000ff)
 ![]()
 ![]()
-
-
-
-<!--
-**simonSlamka/simonSlamka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
