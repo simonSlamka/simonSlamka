@@ -2,7 +2,7 @@
 
 ## Basic stats
 [![Simtoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&show_icons=true)](https://ongakken.com/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&hide=html,tex&layout=compact)](https://ongakken.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&hide=html,tex,matlab,dataweave&layout=compact)](https://ongakken.com/)
 
 <a href="https://github.com/simonSlamka/adlerka-poznamky">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simonSlamka&theme=chartreuse-dark&repo=adlerka-poznamky" />
