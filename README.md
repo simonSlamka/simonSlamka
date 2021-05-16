@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://ongakken.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&hide=html,tex,matlab,dataweave&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&langs_count=4&hide=html,tex,matlab,dataweave&layout=compact" />
 </a>
 
 ## Technologies I use
