@@ -3,7 +3,7 @@
 ## Basic stats
 
 <a href="https://ongakken.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&count_private=true&line_height=25&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&include_all_commits=true&count_private=true&line_height=25&show_icons=true" />
 </a>
 
 <a href="https://ongakken.com/">
