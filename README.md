@@ -14,7 +14,7 @@
 
 <p>WakaTime Weekly Stats</p>
 
-[![Simtoon's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simtoon's%20coding%20stats)](https://wakatime.com/@simonSlamka)
+[![Simtoon's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simtoon's%20coding%20stats&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
 
 ## Technologies I use
 
