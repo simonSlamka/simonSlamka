@@ -12,9 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&langs_count=4&hide=html,css,tex,matlab,dataweave,alloy&layout=compact" />
 </a>
 
-<p>WakaTime Weekly Stats</p>
-
-[![Simtoon's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simtoon's%20coding%20stats&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
+[![Simtoon's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simtoon's%20WakaTime%20Stats&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
 
 ## Technologies I use
 
