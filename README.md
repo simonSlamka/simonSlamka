@@ -9,6 +9,10 @@
 </a>
 
 <a href="https://ongakken.com/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka" />
+</a>
+
+<a href="https://ongakken.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&langs_count=4&hide=html,css,tex,matlab,dataweave,alloy&layout=compact" />
 </a>
 
