@@ -9,12 +9,12 @@
 </a>
 
 <a href="https://ongakken.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka" />
-  <p>WakaTime Weekly Stats</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&langs_count=4&hide=html,css,tex,matlab,dataweave,alloy&layout=compact" />
 </a>
 
 <a href="https://ongakken.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&langs_count=4&hide=html,css,tex,matlab,dataweave,alloy&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka" />
+  <p>WakaTime Weekly Stats</p>
 </a>
 
 ## Technologies I use
