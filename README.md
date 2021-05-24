@@ -10,6 +10,7 @@
 
 <a href="https://ongakken.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka" />
+  <p>WakaTime Weekly Stats</p>
 </a>
 
 <a href="https://ongakken.com/">
