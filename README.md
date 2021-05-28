@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Distro-Ongakken%20TermOS-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff)
-<!--![](https://img.shields.io/badge/Lang-Java-informational?style=flat&color=0000ff)-->
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20(in%20a%20Win%20VM)-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=0000ff)
