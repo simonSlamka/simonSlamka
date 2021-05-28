@@ -30,5 +30,5 @@
 ## Misc
 
 - 🔭 I’m currently working on Ongakken's next game
-- 🌱 I’m currently learning Java
+- 🌱 ~~I’m currently learning Java~~ <-- No, just no. Don't judge me.
 - 😄 Pronouns: He/Him
