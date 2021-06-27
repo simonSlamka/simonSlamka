@@ -12,13 +12,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonSlamka&theme=chartreuse-dark&langs_count=4&hide=html,css,tex,matlab,dataweave,alloy&layout=compact" />
 </a>
 
-[![Simtoon's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats%20--%20Last%207%20days&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
+### WakaTime
+[https://wakatime.com/@simonSlamka](https://wakatime.com/@simonSlamka)
+
 
 ## Technologies I use
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Distro-Ongakken%20TermOS-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff)
+![](https://img.shields.io/badge/Lang-C%23-informational?style=flat&color=0000ff)
+![](https://img.shields.io/badge/Lang-Swift-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20(in%20a%20Win%20VM)-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=0000ff)
