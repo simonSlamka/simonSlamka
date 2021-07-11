@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Lang-C%23-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Lang-Swift-informational?style=flat&color=0000ff)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20(in%20a%20Win%20VM)-informational?style=flat&color=0000ff)
+![](https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=0000ff)
