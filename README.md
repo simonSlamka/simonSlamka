@@ -22,7 +22,7 @@
 
 ![](https://img.shields.io/badge/OS-GNU%2FLinux-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/OS-Microsoft%20Windows%2010-informational?style=flat&color=0000ff)
-![](https://img.shields.io/badge/OS-MacOS%20Monterey-informational?style=flat&color=0000ff)
+![](https://img.shields.io/badge/OS-macOS%20Monterey-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Distro-Fedora%2034-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Lang-C%23-informational?style=flat&color=0000ff)
