@@ -10,7 +10,7 @@
 
 [![Simtoon's WakaTime Stats (from May 15, 2021 onwards)](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
 <br/>
-(from May 15, 2021 onwards)
+(the WakaTime table above counts from May 15, 2021 onwards)
 
 ### WakaTime
 [https://wakatime.com/@simonSlamka](https://wakatime.com/@simonSlamka)
