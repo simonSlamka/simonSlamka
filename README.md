@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&include_all_commits=true&count_private=true&line_height=25&show_icons=true" />
 </a>
 
-[![Simtoon's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
+[![Simtoon's WakaTime Stats (from May 15, 2021 onwards)](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
 
 ### WakaTime
 [https://wakatime.com/@simonSlamka](https://wakatime.com/@simonSlamka)
