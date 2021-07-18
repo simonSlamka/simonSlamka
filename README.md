@@ -21,7 +21,8 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
         <a href="https://wakatime.com/@simonSlamka">
         <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats&theme=chartreuse-dark"/>
     </a>
-(the WakaTime table above counts from May 15, 2021 onwards)
+    <br/>
+    (the WakaTime table above counts from May 15, 2021 onwards)
 
 <img src="https://github.com/simonSlamka/simonSlamka/blob/main/images/stat.svg" alt="WakaTime pretty stats"/>
 </p>
