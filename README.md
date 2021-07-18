@@ -73,9 +73,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 
 ## Misc
 <p align="center">
-- 🔭 I’m currently working on Ongakken's next game
-- 🌱 ~~I’m currently learning Java~~ <-- No, just no. Don't judge me.
-- 😄 Pronouns: He/Him
+<ul>
+<li>🔭 I’m currently working on Ongakken's next game</li>
+<li>🌱 ~~I’m currently learning Java~~ <-- No, just no. Don't judge me.</li>
+<li>😄 Pronouns: He/Him</li>
+</ul>
 ![My last.fm scrobbles](https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10)
 
 ![]()
