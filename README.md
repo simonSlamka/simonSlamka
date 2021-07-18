@@ -75,7 +75,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 <p align="center">
 <ul>
 <li>🔭 I’m currently working on Ongakken's next game</li>
-<li>🌱 ~~I’m currently learning Java~~ <-- No, just no. Don't judge me.</li>
+<li>🌱 <s>I’m currently learning Java</s> <-- No, just no. Don't judge me.</li>
 <li>😄 Pronouns: He/Him</li>
 </ul>
   <a>
