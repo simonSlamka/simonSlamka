@@ -71,7 +71,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
   </a>
 </p>
 
-## Misc
+<center> <h2>Misc</h2> </center>
 <p align="center">
 <ul>
     <li>🔭 I’m currently working on Ongakken's next game</li>
