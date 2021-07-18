@@ -4,6 +4,7 @@
 <p align="center">
 I'm a student programmer who, among else, makes games. Since I was a child, I wanted to write stories and then somehow be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing: there was no way to interact with the story and change how it unfolds. So I got into game dev. A few years have passed, and I have incorporated my own company, and now I primarily make games, but my company also makes websites, provides tech support, builds desktops, and runs penetration tests for enterprises.
 </p>
+
 ### Something more about me
 <p align="center">
 **I love stats.** For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history is feels exciting. It grants you a look to the depths of your life, potentially uncovering ways to improve and become more performant.
