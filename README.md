@@ -7,7 +7,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 ### Something more about me
 
 **I love stats.** For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history is feels exciting. It grants you a look to the depths of your life, potentially uncovering ways to improve and become more performant.
-I use [Exist](exist.io) on a daily basis. The top thing about _Exist_ is that it aggregates data from many sources, so you can, over time, see correlations between data sources. For example, in my case, the less time I spend asleep, the more productive I seem to be 😂.
+<br/>I use [Exist](exist.io) on a daily basis. The top thing about _Exist_ is that it aggregates data from many sources, so you can, over time, see correlations between data sources. For example, in my case, the less time I spend asleep, the more productive I seem to be 😂.
 <br/>For my computer/phone usage, I use [RescueTime](rescuetime.com).
 <br/>For coding tracking, I use [WakaTime](wakatime.com/simonSlamka).
 
