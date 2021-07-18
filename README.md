@@ -71,8 +71,9 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
   </a>
 </p>
 
-## Misc
 <p align="center">
+
+## Misc
 <ul>
 <li>🔭 I’m currently working on Ongakken's next game</li>
 <li>🌱 <s>I’m currently learning Java</s> <-- No, just no. Don't judge me.</li>
@@ -82,6 +83,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     <img src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="My last.fm scrobbles"/>
   </a>
 
+  </br>
   <a>
     <img src="https://komarev.com/ghpvc/?username=simonSlamka" alt="Profile visits (pageviews)"/>
   </a>
