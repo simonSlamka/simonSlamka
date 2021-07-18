@@ -78,7 +78,9 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 <li>🌱 ~~I’m currently learning Java~~ <-- No, just no. Don't judge me.</li>
 <li>😄 Pronouns: He/Him</li>
 </ul>
-![My last.fm scrobbles](https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10)
+  <a>
+    <img src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="My last.fm scrobbles"/>
+  </a>
 
 ![]()
   <a>
