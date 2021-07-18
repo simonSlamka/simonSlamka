@@ -1,9 +1,5 @@
 # Hey, people <img src="https://github.com/simonSlamka/simonSlamka/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="80px">
 
-h2 {
-  text-align: center;
-}
-
 ### What I do
 <p align="center">
 I'm a student programmer who, among else, makes games. Since I was a child, I wanted to write stories and then somehow be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing: there was no way to interact with the story and change how it unfolds. So I got into game dev. A few years have passed, and I have incorporated my own company, and now I primarily make games, but my company also makes websites, provides tech support, builds desktops, and runs penetration tests for enterprises.
@@ -75,13 +71,12 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
   </a>
 </p>
 
+## Misc
 <p align="center">
-
-<h2>Misc</h2>
 <ul>
-<li>🔭 I’m currently working on Ongakken's next game</li>
-<li>🌱 <s>I’m currently learning Java</s> <-- No, just no. Don't judge me.</li>
-<li>😄 Pronouns: He/Him</li>
+    <li>🔭 I’m currently working on Ongakken's next game</li>
+    <li>🌱 <s>I’m currently learning Java</s> <-- No, just no. Don't judge me.</li>
+    <li>😄 Pronouns: He/Him</li>
 </ul>
   <a>
     <img src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="My last.fm scrobbles"/>
