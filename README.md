@@ -18,7 +18,8 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     <a href="https://ongakken.com/">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&include_all_commits=true&count_private=true&line_height=25&show_icons=true" />
     </a>
-        <a href="https://wakatime.com/@simonSlamka">
+    </br>
+    <a href="https://wakatime.com/@simonSlamka">
         <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats&theme=chartreuse-dark"/>
     </a>
     <br/>
@@ -28,7 +29,6 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 ## Technologies I use
-
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/OS-GNU%2FLinux-informational?style=flat&color=0000ff" alt="GNU/Linux"/>
