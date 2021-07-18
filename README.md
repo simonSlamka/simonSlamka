@@ -1,6 +1,15 @@
 # Hey, people <img src="https://github.com/simonSlamka/simonSlamka/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="80px">
 
+### What I do
+
 #### I'm a student programmer who makes games. Since I was a child, I wanted to write stories and then somehow be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing: there was no way to interact with the story and change how it unfolds. So I got into game dev. A few years have passed, and I have incorporated my own company, and now I primarily make games, but my company also makes websites, provides tech support, builds desktops, and runs penetration tests for enterprises.
+
+### Something more about me
+
+#### I love stats. It's weird, because I was never very good at math. I just love to see my life in numbers (quantified self). For example, to see a graph of my daily/weekly/yearly productivy or my long-term music listening history is something very exciting and fascinating.
+I use [Exist](exist.io) on a daily basis. The top thing about _Exist_ is that it aggregates data from many sources, so you can, over time, see correlations between data sources. For example, in my case, the less time I spend asleep, the more productive I seem to be 😂.
+<br/>For my computer/phone usage, I use [RescueTime](rescuetime.com).
+<br/>For coding tracking, I use [WakaTime](wakatime.com/simonSlamka).
 
 ## Basic stats
 
@@ -38,3 +47,5 @@
 - 🔭 I’m currently working on Ongakken's next game
 - 🌱 ~~I’m currently learning Java~~ <-- No, just no. Don't judge me.
 - 😄 Pronouns: He/Him
+
+![My last.fm scrobbles](https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10)
