@@ -39,8 +39,6 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=0000ff)
 ![](https://img.shields.io/badge/Cloud-linode-informational?style=flat&color=0000ff)
-![]()
-![]()
 
 ## Misc
 
@@ -49,3 +47,5 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 - 😄 Pronouns: He/Him
 
 ![My last.fm scrobbles](https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10)
+
+![](https://komarev.com/ghpvc/?username=simonSlamka)
