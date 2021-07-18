@@ -108,7 +108,6 @@ C#                       2 repos             █░░░░░░░░░░�
  Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/simonSlamka/simonSlamka/blob/main/images/stat.svg" alt="WakaTime pretty stats"/>
 </p>
 
 ## Technologies I use
