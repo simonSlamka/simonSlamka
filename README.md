@@ -73,7 +73,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 
 <p align="center">
 
-## Misc
+<h2>Misc</h2>
 <ul>
 <li>🔭 I’m currently working on Ongakken's next game</li>
 <li>🌱 <s>I’m currently learning Java</s> <-- No, just no. Don't judge me.</li>
