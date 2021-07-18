@@ -82,14 +82,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     <img src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="My last.fm scrobbles"/>
   </a>
 
-![]()
   <a>
     <img src="https://komarev.com/ghpvc/?username=simonSlamka" alt="Profile visits (pageviews)"/>
-  </a>
-    <a>
-    <img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff" alt="Distro - Debian 10"/>
-  </a>
-    <a>
-    <img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff" alt="Distro - Debian 10"/>
   </a>
 </p>
