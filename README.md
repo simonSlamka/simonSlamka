@@ -23,7 +23,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     </a>
     <br/>
     (the WakaTime table above counts from May 15, 2021 onwards)
-
+    <br/>
 <img src="https://github.com/simonSlamka/simonSlamka/blob/main/images/stat.svg" alt="WakaTime pretty stats"/>
 </p>
 
