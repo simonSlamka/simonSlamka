@@ -7,7 +7,7 @@ on:
     branches: [master]
   schedule:
     - cron: "1 1 * * *"
-
+  workflow_dispatch:
 jobs:
   build:
     name: Update-steam-playtime
