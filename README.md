@@ -12,6 +12,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 <br/>For my computer/phone usage, I use [RescueTime](rescuetime.com).
 <br/>For coding tracking, I use [WakaTime](wakatime.com/simonSlamka).
 </p>
+
 ## Basic stats
 <p align="center">
     <a href="https://ongakken.com/">
