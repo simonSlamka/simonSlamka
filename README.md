@@ -170,6 +170,7 @@ C#                       2 repos             █░░░░░░░░░░�
     <li>🌱 <s>I’m currently learning Java</s> <-- No, just no. Don't judge me.</li>
     <li>😄 Pronouns: He/Him</li>
 </ul>
+  My 10 most recently played tracks
   <a>
     <img src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="My last.fm scrobbles"/>
   </a>
