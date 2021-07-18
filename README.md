@@ -1,29 +1,30 @@
 # Hey, people <img src="https://github.com/simonSlamka/simonSlamka/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="80px">
 
 ### What I do
-
+<p align="center">
 I'm a student programmer who, among else, makes games. Since I was a child, I wanted to write stories and then somehow be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing: there was no way to interact with the story and change how it unfolds. So I got into game dev. A few years have passed, and I have incorporated my own company, and now I primarily make games, but my company also makes websites, provides tech support, builds desktops, and runs penetration tests for enterprises.
-
+</p>
 ### Something more about me
-
+<p align="center">
 **I love stats.** For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history is feels exciting. It grants you a look to the depths of your life, potentially uncovering ways to improve and become more performant.
 <br/>I use [Exist](exist.io) on a daily basis. The top thing about _Exist_ is that it aggregates data from many sources, so you can, over time, see correlations between data sources. For example, in my case, the less time I spend asleep, the more productive I seem to be 😂.
 <br/>For my computer/phone usage, I use [RescueTime](rescuetime.com).
 <br/>For coding tracking, I use [WakaTime](wakatime.com/simonSlamka).
-
+</p>
 ## Basic stats
-
-<a href="https://ongakken.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&include_all_commits=true&count_private=true&line_height=25&show_icons=true" />
-</a>
-
-[![Simtoon's WakaTime Stats (from May 15, 2021 onwards)](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
-<br/>
+<p align="center">
+    <a href="https://ongakken.com/">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&include_all_commits=true&count_private=true&line_height=25&show_icons=true" />
+    </a>
+    [![Simtoon's WakaTime Stats (from May 15, 2021 onwards)](https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats&theme=chartreuse-dark)](https://wakatime.com/@simonSlamka)
+    <br/>
 (the WakaTime table above counts from May 15, 2021 onwards)
+
+<img src="https://github.com/simonSlamka/simonSlamka/blob/main/images/stat.svg" alt="WakaTime pretty stats"/>
 
 ### WakaTime
 [https://wakatime.com/@simonSlamka](https://wakatime.com/@simonSlamka)
-
+</p>
 
 ## Technologies I use
 
@@ -70,11 +71,20 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 ## Misc
-
+<p align="center">
 - 🔭 I’m currently working on Ongakken's next game
 - 🌱 ~~I’m currently learning Java~~ <-- No, just no. Don't judge me.
 - 😄 Pronouns: He/Him
-
 ![My last.fm scrobbles](https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10)
 
-![](https://komarev.com/ghpvc/?username=simonSlamka)
+![]()
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=simonSlamka" alt="Profile visits (pageviews)"/>
+  </a>
+    <a>
+    <img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff" alt="Distro - Debian 10"/>
+  </a>
+    <a>
+    <img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff" alt="Distro - Debian 10"/>
+  </a>
+</p>
