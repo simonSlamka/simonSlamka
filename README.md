@@ -25,6 +25,10 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     <br/>
     (the WakaTime table above counts from May 15, 2021 onwards)
     <br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img src="https://github.com/simonSlamka/simonSlamka/blob/main/images/stat.svg" alt="WakaTime pretty stats"/>
 </p>
 
@@ -71,7 +75,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
   </a>
 </p>
 
-<center> <h2>Misc</h2> </center>
+## Misc
 <p align="center">
 <ul>
     <li>🔭 I’m currently working on Ongakken's next game</li>
