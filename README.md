@@ -13,7 +13,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 <br/>For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
 </p>
 
-## Basic stats
+## Basic stats - global, all-time
 <p align="center">
     <a href="https://ongakken.com/">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&include_all_commits=true&count_private=true&line_height=25&show_icons=true" />
@@ -25,6 +25,8 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     <br/>
     (the WakaTime table above counts from May 15, 2021 onwards)
     <br/>
+    
+## Detailed stats
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
@@ -172,7 +174,7 @@ C#                       2 repos             █░░░░░░░░░░�
 </ul>
   <p>My 10 most recently played tracks</p>
   <a>
-    <img src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="My last.fm scrobbles"/>
+    <img src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="Table not found - a refresh might be necessary"/>
   </a>
 
   <!-- steam-box start -->
