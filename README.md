@@ -1,5 +1,13 @@
 # Hey, people <img src="https://github.com/simonSlamka/simonSlamka/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="80px">
 
+<!--
+<p align="center">
+    <a>
+        <img src="https://user-images.githubusercontent.com/51794014/126156784-01d29993-1b3b-44ba-93f1-b28e56e9ac73.jpg"/>
+    </a>
+</p>
+-->
+
 ### What I do
 <p align="center">
 I'm a student programmer who, among else, makes games. Since I was a child, I wanted to write stories and then somehow be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing: there was no way to interact with the story and change how it unfolds. So I got into game dev. A few years have passed, and I have incorporated my own company, and now I primarily make games, but my company also makes websites, provides tech support, builds desktops, and runs penetration tests for enterprises.
