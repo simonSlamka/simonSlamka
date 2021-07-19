@@ -188,7 +188,6 @@ C#                       2 repos             █░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
-
   </br>
   <a>
     <img src="https://komarev.com/ghpvc/?username=simonSlamka" alt="Profile visits (pageviews)"/>
