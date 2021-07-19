@@ -1,0 +1,17 @@
+name: Update gist with RescueTime stats
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Update gist
+        uses: simonSlamka/music-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ec18c0342fcd5048d88eb73c69249424
+          LASTFM_KEY: ${{ secrets.RESCUETIME_API_KEY }}
+          LFMUSERNAME: ${{ secrets.LFMUSERNAME }}
