@@ -7,7 +7,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 
 ### Something more about me
 <p align="center">
-<b>I love stats.</b> For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history is feels exciting. It grants you a look to the depths of your life, potentially uncovering ways to improve and become more performant.
+<b>I love stats.</b> For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering ways to improve and become more performant.
 <br/>I use <a href="exist.io">Exist</a> on a daily basis. The top thing about <i>Exist</i> is that it aggregates data from many sources, so you can, over time, see correlations between data sources. For example, in my case, the less time I spend asleep, the more productive I seem to be 😂.
 <br/>For my computer/phone usage, I use <a href="rescuetime.com">RescueTime</a>.
 <br/>For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
