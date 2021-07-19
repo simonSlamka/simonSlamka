@@ -111,7 +111,7 @@ def main():
     post_stats = "📢 {} | 💖 {}".format(activity["replyCount"], activity["likeCount"])
     payload = content + "\n" + post_stats.center(58)
 
-    update_gist("🎀 AniList Activity - {}...".format(time_ago), payload)
+    update_gist("Watched anime - AniList Activity - {}...".format(time_ago), payload)
 
 
 if __name__ == "__main__":
