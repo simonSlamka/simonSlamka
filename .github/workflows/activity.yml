@@ -3,7 +3,6 @@ name: Activity Box
 on:
   schedule:
     - cron: '*/60 * * * *'
-  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
