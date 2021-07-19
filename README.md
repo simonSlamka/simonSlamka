@@ -160,6 +160,9 @@ C#                       2 repos             █░░░░░░░░░░�
     <img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&color=0000ff" alt="IDE - Xcode"/>
   </a>
   <a>
+    <img src="https://img.shields.io/badge/IDE-JetBrains%20Rider-informational?style=flat&color=0000ff" alt="IDE - Xcode"/>
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff" alt="Editor - VSCode"/>
   </a>
   <a>
