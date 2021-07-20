@@ -2,7 +2,7 @@ name: Update GitHub Gist with Neko-box!
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '1 1 1 * *'
   workflow_dispatch:
 jobs:
   build:
