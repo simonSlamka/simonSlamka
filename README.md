@@ -14,7 +14,15 @@
     </a>
     <br/>
     <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.languages.details.svg"/>
+    </a>
+    <br/>
+    <a>
         <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.support.svg"/>
+    </a>
+    <br/>
+    <a>
+        <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.people.svg"/>
     </a>
 </p>
 
@@ -49,7 +57,17 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     <br/>
     
 ## Detailed stats
+###### some views might be partly repetitive, but all provide a different level of detail
+
 <p align="center">
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.wakatime.svg"/>
+   </a>
+   <br/>
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.projects.svg"/>
+   </a>
+   <br/>
    <a>
        <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.habits.svg"/>
    </a>
@@ -67,6 +85,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
    <a>
        <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.activity.svg"/>
    </a>
+   <br/>
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.stars.svg"/>
+   </a>
+   <br/>
    <a>
        <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.gists.svg"/>
    </a>
@@ -214,16 +237,22 @@ C#                       2 repos             █░░░░░░░░░░�
 
 ## Misc
 <p align="center">
-<ul>
-    <li>🔭 I’m currently working on Ongakken's next game</li>
-    <li>🌱 <s>I’m currently learning Java</s> <-- No, just no. Don't judge me.</li>
-    <li>😄 Pronouns: He/Him</li>
-</ul>
-  <p>My 10 most recently played tracks</p>
-  <a>
-    <img src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="Table not found - a refresh might be necessary"/>
-  </a>
-
+    <ul>
+        <li>🔭 I’m currently working on Ongakken's next game</li>
+        <li>🌱 <s>I’m currently learning Java</s> <-- No, just no. Don't judge me.</li>
+        <li>😄 Pronouns: He/Him</li>
+    </ul>
+</p>
+            
+<p align="center">
+    <a>
+        <img align="cetner" src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="Table not found - a refresh might be necessary"/>
+    </a>
+    <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.music.recent.svg"/>
+    </a>
+</p>
+        
   <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
@@ -236,7 +265,13 @@ C#                       2 repos             █░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
   </br>
+  
+<p align="center">
   <a>
-    <img src="https://komarev.com/ghpvc/?username=simonSlamka" alt="Profile visits (pageviews)"/>
+    <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.anilist.full.svg"/>
+  </a>
+  <br/>
+  <a>
+    <img align="center" src="https://komarev.com/ghpvc/?username=simonSlamka" alt="Profile visits (pageviews)"/>
   </a>
 </p>
