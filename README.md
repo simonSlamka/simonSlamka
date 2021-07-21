@@ -26,12 +26,12 @@
     </a>
 </p>
 
-### What I do
+## What I do
 <p align="center">
 I'm a student programmer who, among else, makes games. Since I was a child, I wanted to write stories and then somehow be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing: there was no way to interact with the story and change how it unfolds. So I got into game dev. A few years have passed, and I have incorporated my own company, and now I primarily make games, but my company also makes websites, provides tech support, builds desktops, and runs penetration tests for enterprises.
 </p>
 
-### Something more about me
+## Something more about me
 <p align="center">
 <b>I love stats.</b> For example, seeing a graph of my daily/weekly/yearly productivity or my long-term music listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering ways to improve and become more performant.
 <br/>I use <a href="exist.io">Exist</a> on a daily basis. The top thing about <i>Exist</i> is that it aggregates data from many sources, so you can, over time, see correlations between data sources. For example, in my case, the less time I spend asleep, the more productive I seem to be 😂.
