@@ -8,6 +8,16 @@
 </p>
 -->
 
+<p align="center">
+    <a>
+        <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.classic.svg"/>
+    </a>
+    <br/>
+    <a>
+        <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.support.svg"/>
+    </a>
+</p>
+
 ### What I do
 <p align="center">
 I'm a student programmer who, among else, makes games. Since I was a child, I wanted to write stories and then somehow be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing: there was no way to interact with the story and change how it unfolds. So I got into game dev. A few years have passed, and I have incorporated my own company, and now I primarily make games, but my company also makes websites, provides tech support, builds desktops, and runs penetration tests for enterprises.
@@ -24,7 +34,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 ## Basic stats - global, all-time
 <p align="center">
     <a>
-        <img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/overview.svg" />
+        <img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/overview.svg"/>
     </a>
     </br>
     <a href="https://wakatime.com/@simonSlamka">
@@ -39,6 +49,28 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     <br/>
     
 ## Detailed stats
+<p align="center">
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.habits.svg"/>
+   </a>
+   <br/>
+   <br/>
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.followup.svg"/>
+   </a>
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.followup.user.svg"/>
+   </a>
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.isocalendar.fullyear.svg"/>
+   </a>
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.activity.svg"/>
+   </a>
+   <a>
+       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.gists.svg"/>
+   </a>
+</p>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
