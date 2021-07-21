@@ -64,7 +64,7 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: ""
-          plugin_achievements_limit: 10
+          plugin_achievements_limit: 15
           plugins_errors_fatal: no
           output_action: commit
           delay: 10
