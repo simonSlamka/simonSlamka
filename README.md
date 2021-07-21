@@ -17,9 +17,9 @@
        <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.languages.details.svg"/>
     </a>
     <br/>
-    <a>
+  <!--  <a>
         <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.support.svg"/>
-    </a>
+    </a> -->
     <br/>
     <a>
         <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.people.svg"/>
