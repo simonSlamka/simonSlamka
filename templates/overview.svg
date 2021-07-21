@@ -35,6 +35,16 @@ th {
   font-weight: 600;
   color: rgb(72, 148, 224);
 }
+  
+h2 {
+  margin-top: 0;
+  margin-bottom: 0.75em;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(72, 148, 224);
+  fill: rgb(72, 148, 224);
+}
 
 td {
   margin-bottom: 16px;
