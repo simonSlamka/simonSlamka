@@ -279,7 +279,7 @@ jobs:
           plugin_music_mode: recent
           plugin_music_token: ${{ secrets.LASTFM_KEY }}
           plugin_music_limit: 5
-          plugin_music_username: simtoon1011
+          plugin_music_user: simtoon1011
           plugins_errors_fatal: no
           output_action: commit
           delay: 10
