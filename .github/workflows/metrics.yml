@@ -19,7 +19,7 @@ jobs:
         uses: simonSlamka/metrics@master
         with:
           filename: metrics.classic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: header, repositories
           plugin_lines: yes
           plugins_errors_fatal: no
