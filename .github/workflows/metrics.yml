@@ -365,107 +365,19 @@ jobs:
           delay: 120
 
       # ======================================================================================
-      # 🗼 Rss feed plugin
-
-      # Display RSS feed
-      - name: 🗼 Rss feed plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.rss.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 4
-          output_action: pull-request
-          delay: 120
-          
-      # ======================================================================================
-      # 📸 Website screenshot
-
-      # Display a website screenshot
-      - name: 📸 Website screenshot
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.screenshot.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day  
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 🗨️ Stackoverflow plugin
-
-      # Display Stackoverflow metrics
-      - name: 🗨️ Stackoverflow plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.stackoverflow.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_user: 1
-          plugin_stackoverflow_sections: answers-top
-          plugin_stackoverflow_limit: 2
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # ✨ Stargazers over last weeks
-
-      # Display stargazers evolution over last weeks
-      - name: ✨ Stargazers plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.stargazers.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_stargazers: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
       # 🌟 Recently starred repositories
 
       # Display latest starred repositories
       - name: 🌟 Stars plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: simonSlamka/metrics@master
         with:
           filename: metrics.plugin.stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 💹 Stock prices plugin
-
-      # Display RSS feed
-      - name: 💹 Stock prices plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.stock.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_stock: yes
-          plugin_stock_symbol: TSLA
-          plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
+          plugins_errors_fatal: no
           output_action: pull-request
           delay: 120
 
