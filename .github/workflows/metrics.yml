@@ -33,7 +33,7 @@ jobs:
         with:
           template: terminal
           filename: metrics.terminal.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: header, metadata
           plugins_errors_fatal: no
           plugin_activity: yes
@@ -60,12 +60,12 @@ jobs:
         uses: simonSlamka/metrics@master
         with:
           filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: ""
           plugin_achievements_limit: 10
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          plugins_errors_fatal: no
           output_action: pull-request
           delay: 120
 
@@ -78,7 +78,7 @@ jobs:
         uses: simonSlamka/metrics@master
         with:
           filename: metrics.plugin.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_activity: yes
           plugin_activity_limit: 7
