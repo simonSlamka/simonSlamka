@@ -24,11 +24,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 ## Basic stats - global, all-time
 <p align="center">
     <a href="https://ongakken.com/">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=simonSlamka&theme=chartreuse-dark&include_all_commits=true&count_private=true&line_height=25&show_icons=true" />
+        <img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/overview.svg" />
     </a>
     </br>
     <a href="https://wakatime.com/@simonSlamka">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=simonSlamka&custom_title=Simon's%20WakaTime%20Stats&theme=chartreuse-dark"/>
+        <img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/languages.svg"/>
     </a>
     <br/>
     (the WakaTime table above counts from May 15, 2021 onwards)
