@@ -23,7 +23,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 
 ## Basic stats - global, all-time
 <p align="center">
-    <a href="https://ongakken.com/">
+    <a>
         <img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/overview.svg" />
     </a>
     </br>
@@ -31,6 +31,9 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
         <img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/languages.svg"/>
     </a>
     <br/>
+    <a>
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=simonSlamka&theme=tokyonight_duo&hide_border=true"/>
+    </a>
     (the WakaTime table above counts from May 15, 2021 onwards)
     <br/>
     
