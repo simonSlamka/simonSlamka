@@ -1,11 +1,4 @@
-# This is a workflow which display most of lowlighter/metrics features
-#
-# It is also used to detect broken plugins, so that's why "plugins_errors_fatal" is enabled on most of them,
-# but you should set it to no if you're copying steps from this workflow
-#
-# ⚠️ Following jobs all uses @master branch (unstable branch with unreleased features)
-
-name: Metrics (examples)
+name: Metrics
 on:
   schedule:
     - cron: "0 12 * * *"
@@ -376,7 +369,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_stars_limit: 5
           plugins_errors_fatal: no
           output_action: pull-request
           delay: 120
@@ -387,30 +380,14 @@ jobs:
       # Display starred topics (as labels)
       - name: 📌 Topics plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: simonSlamka/metrics@master
         with:
           filename: metrics.plugin.topics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 12
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # Display starred topics (as icons)
-      # Note that only topics with an icon will be displayed (most of majors topics have one though)
-      - name: 📌 Topics plugin (mastered)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.topics.mastered.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: mastered
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          plugin_topics_limit: 15
+          plugins_errors_fatal: no
           output_action: pull-request
           delay: 120
 
@@ -421,49 +398,13 @@ jobs:
       # Note that a "repo" scope is required
       - name: 🧮 Traffic plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: simonSlamka/metrics@master
         with:
           filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: repositories
           plugin_traffic: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 🐤 Latest tweets
-
-      # Display your latest tweets (token required)
-      # Don't forget to update your GitHub profile with your twitter username
-      - name: 🐤 Tweets plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.tweets.svg
-          token: NOT_NEEDED
-          user: botlighter
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: github
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # Display your latest tweets with attachments (token required)
-      # Don't forget to update your GitHub profile with your twitter username
-      - name: 🐤 Tweets plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.tweets.attachments.svg
-          token: NOT_NEEDED
-          user: botlighter
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_attachments: yes
-          plugin_tweets_user: github
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          plugins_errors_fatal: no
           output_action: pull-request
           delay: 120
 
@@ -473,65 +414,15 @@ jobs:
       # Display your wakatime metrics
       - name: ⏰ WakaTime plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: simonSlamka/metrics@master
         with:
           filename: metrics.plugin.wakatime.svg
           token: NOT_NEEDED
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: MOCKED_TOKEN # ${{ secrets.WAKATIME_TOKEN }}
-          use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 💬 Others
-
-      # Illustrate plugin errors :
-      # ${{ secrets.METRICS_TOKEN }} is missing "public_repo" scope, which is required for "plugin_projects"
-      - name: 💬 Plugin error example
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.error.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_projects: yes
-          output_action: pull-request
-          delay: 120
-
-      # Metrics for "github" organization
-      - name: 💬 Organization metrics
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.organization.svg
-          user: github
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: header, repositories
-          output_action: pull-request
-          delay: 120
-          
-      # Metrics large display
-      - name: 💬 Large display metrics
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.large.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_display: large
-          output_action: pull-request
-          delay: 120
-
-      # Metrics as json
-      - name: 💬 JSON metrics
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.example.json
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          config_output: json
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          use_mocked_data: yes
+          plugins_errors_fatal: no
           output_action: pull-request
           delay: 120
 
@@ -541,43 +432,11 @@ jobs:
       # "--halloween" will act as if it was halloween, changing the colors of calendars
       - name: 💬 Header (hidden features)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: simonSlamka/metrics@master
         with:
           filename: metrics.header.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: header
           debug_flags: --cakeday --hireable --halloween
           output_action: pull-request-squash
           delay: 120
-
-# ======================================================================================
-# Below is a special job used to render markdown as images 
-# ======================================================================================
-
-  github-metrics-markdown:
-    needs: [github-metrics]
-    runs-on: ubuntu-latest
-    container: ghcr.io/lowlighter/metrics:v3.7-beta
-    steps:
-      - name: Screenshot markdown example
-        run: |
-          node /metrics/.github/markdown_example.mjs
-          echo "METRICS_MARKDOWN_EXAMPLE=$(base64 --wrap=0 metrics.markdown.png)" >> $GITHUB_ENV 
-      - name: Update markdown example
-        uses: actions/github-script@v3
-        env:
-          METRICS_MARKDOWN_EXAMPLE: "${{ env.METRICS_MARKDOWN_EXAMPLE }}"
-        with:
-          script: |
-            try {
-              const {data:{sha}} = await github.repos.getContent({...context.repo, path:"metrics.markdown.png"})
-              console.log(`current sha: ${sha}`)
-              github.repos.createOrUpdateFileContents({
-                ...context.repo,
-                path:"metrics.markdown.png",
-                message:"Update metrics.markdown.png",
-                content:process.env.METRICS_MARKDOWN_EXAMPLE,
-                sha,
-              })
-            } catch (error) { console.log(error) }
-            
