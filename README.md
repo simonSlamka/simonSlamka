@@ -39,6 +39,13 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 <br/>For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
 </p>
 
+## Highlights
+<p align="center">
+    <a>
+        <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.achievements.svg"/>
+    </a>
+</p>
+
 ## Basic stats - global, all-time
 <p align="center">
     <a>
