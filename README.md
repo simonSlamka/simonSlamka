@@ -252,9 +252,6 @@ C#                       2 repos             █░░░░░░░░░░�
     <a>
         <img align="cetner" src="https://lastfm-recently-played.vercel.app/api?user=simtoon1011&width=500&count=10" alt="Table not found - a refresh might be necessary"/>
     </a>
-    <a>
-       <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.music.recent.svg"/>
-    </a>
 </p>
         
   <!-- steam-box start -->
