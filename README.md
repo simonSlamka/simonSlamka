@@ -34,6 +34,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
     <a>
         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=simonSlamka&theme=tokyonight_duo&hide_border=true"/>
     </a>
+    <br/>
     (the WakaTime table above counts from May 15, 2021 onwards)
     <br/>
     
