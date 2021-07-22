@@ -261,7 +261,7 @@ C#                       2 repos             █░░░░░░░░░░�
 🎮 Deus Ex: Mankind Divided™        🕘 264 hrs 21 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 189 hrs 23 mins
 🎮 VRChat                           🕘 140 hrs 43 mins
-🎮 METAL GEAR SOLID V: THE PHANTOM PAIN 🕘 122 hrs 53 mins
+🎮 METAL GEAR SOLID V: THE PHANTOM PAIN 🕘 123 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
