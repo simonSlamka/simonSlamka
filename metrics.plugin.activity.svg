@@ -1199,6 +1199,54 @@
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
+                      Opened <span class="issue">#49 Create a universal hacking system with multiple difficulties</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">ongakken/rackjackerPC</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      Opened <span class="issue">#48 Create a universal lockpicking system with multiple difficulties</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">ongakken/rackjackerPC</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      Opened <span class="issue">#11 When entering the password, set it to hidden by default</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">TheShadowGamer/Password-System</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
                       Opened <span class="issue">#47 Move the Steam persona name reporting code from BP to native cpp</span>
                     </div>
                                 </div>
@@ -1246,54 +1294,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">JetBrains/RiderSourceCodeAccess</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Opened <span class="issue">#10 UE4.26 - Rider is not listed in the engine settings -&gt; Code</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">JetBrains/RiderSourceCodeAccess</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Opened <span class="issue">#46 Sprint reportedly changes scale between play sessions</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">ongakken/rackjackerPC</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Opened <span class="issue">#45 The player can "glitch into" furniture and props</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">ongakken/rackjackerPC</span></div>
                                 </div>
                             </section>
                         </div>
