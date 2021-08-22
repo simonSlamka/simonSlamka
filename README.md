@@ -143,16 +143,16 @@ Sunday       100 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Unreal Engine            2 hrs 30 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Unreal                   2 hrs 30 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RackJacker               2 hrs 30 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
