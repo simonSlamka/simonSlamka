@@ -143,16 +143,17 @@ Sunday       100 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      21 mins             ███████████████████░░░░░░   76.31% 
+Bash                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.69%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+terminalInsanityCLI      27 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    27 mins             █████████████████████████   100.0%
 
 ```
 
