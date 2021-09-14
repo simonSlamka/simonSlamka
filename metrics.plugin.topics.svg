@@ -1194,6 +1194,7 @@
                         <div class="topics fill-width">
                             <div class="label" title="Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.">unity</div>
                             <div class="label" title="Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.">unreal engine</div>
+                            <div class="label" title="">emotion-recognition</div>
                         </div>
                     </section>
                 </div>
