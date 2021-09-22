@@ -102,11 +102,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 696 Contributions in the Year 2021
  > 
-> 📦 11.1 MB Used in Github's Storage 
+> 📦 11.1 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
