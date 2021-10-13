@@ -110,9 +110,9 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 76 Public Repositories 
+> 📜 75 Public Repositories 
  > 
-> 🔑 25 Private Repositories  
+> 🔑 26 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
