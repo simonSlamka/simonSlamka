@@ -143,17 +143,16 @@ Sunday       93 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Python                   13 mins             ████████████████████████░   98.66% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-UCL-ITtech               13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
