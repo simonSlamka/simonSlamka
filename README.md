@@ -197,7 +197,10 @@ HTML                     3 repos             █░░░░░░░░░░�
     <img src="https://img.shields.io/badge/OS-GNU%2FLinux-informational?style=flat&color=0000ff" alt="GNU/Linux"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/OS-Microsoft%20Windows%2011%20arm64-informational?style=flat&color=0000ff" alt="OS - MS Windows 10"/>
+    <img src="https://img.shields.io/badge/OS-Microsoft%20Windows%2010%20amd64-informational?style=flat&color=0000ff" alt="OS - MS Windows 10"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/OS-Microsoft%20Windows%2011%20arm64-informational?style=flat&color=0000ff" alt="OS - MS Windows 11"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/OS-macOS%20Monterey-informational?style=flat&color=0000ff" alt="OS - macOS Monterey"/>
@@ -209,10 +212,10 @@ HTML                     3 repos             █░░░░░░░░░░�
     <img src="https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff" alt="Lang - C++"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Lang-Swift-informational?style=flat&color=0000ff" alt="Lang - C#"/>
+    <img src="https://img.shields.io/badge/Lang-JS-informational?style=flat&color=0000ff" alt="Lang - JS"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Lang-Python-informational?style=flat&color=0000ff" alt="Lang - Swift"/>
+    <img src="https://img.shields.io/badge/Lang-Python-informational?style=flat&color=0000ff" alt="Lang - Python"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio-informational?style=flat&color=0000ff" alt="IDE - MS Visual Studio"/>
@@ -221,13 +224,16 @@ HTML                     3 repos             █░░░░░░░░░░�
     <img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&color=0000ff" alt="IDE - Xcode"/>
   </a>
   <a>
+    <img src="https://img.shields.io/badge/IDE-JetBrains%20Rider-informational?style=flat&color=0000ff" alt="IDE - Rider"/>
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff" alt="Editor - VSCode"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=0000ff" alt="Shell - zsh"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/Cloud-linode-informational?style=flat&color=0000ff" alt="Cloud - Linode"/>
+    <img src="https://img.shields.io/badge/Cloud-Linode-informational?style=flat&color=0000ff" alt="Cloud - Linode"/>
   </a>
   <a>
     <img src="https://img.shields.io/badge/Cloud-Google%20Firebase-informational?style=flat&color=0000ff" alt="Cloud - Google Firebase"/>
