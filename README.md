@@ -13,10 +13,10 @@
         <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.classic.svg"/>
     </a>
     <br/>
-    <a>
+   <!-- <a>
        <img align="center" src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.languages.details.svg"/>
     </a>
-    <br/>
+    <br/> -->
   <!--  <a>
         <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.support.svg"/>
     </a> -->
