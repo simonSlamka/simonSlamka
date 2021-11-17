@@ -31,9 +31,10 @@ jobs:
           mv ./steam ../ && cd .. && rm -rf steam-box/
       - name: Commit and push
         run: |-
+          git pull
           ./steam
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull --ff-only && git push
+          git push
 
