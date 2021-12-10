@@ -102,11 +102,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2013%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,674 Contributions in the Year 2021
+> 🏆 1,675 Contributions in the Year 2021
  > 
 > 📦 11.7 MB Used in GitHub's Storage 
  > 
@@ -158,11 +158,11 @@ Word                     1 hr 18 mins        ██░░░░░░░░░�
 Notepad++                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
 
 🐱‍💻 Projects: 
-rackjackerPC             3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   31.49% 
+rackjackerPC             4 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.04% 
 ongakken-web_DK          1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
 tempy                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77% 
 theButler                1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.92% 
-RackJacker               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.55%
+iReallyDontKnow          56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.05%
 
 💻 Operating System: 
 Windows                  7 hrs 26 mins       ████████████████░░░░░░░░░   64.0% 
