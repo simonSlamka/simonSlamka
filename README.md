@@ -102,7 +102,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
