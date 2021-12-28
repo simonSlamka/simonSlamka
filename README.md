@@ -102,6 +102,8 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%204%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 1,677 Contributions in the Year 2021
