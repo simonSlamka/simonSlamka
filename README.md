@@ -102,11 +102,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2053%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 12 Contributions in the Year 2022
+> 🏆 28 Contributions in the Year 2022
  > 
 > 📦 11.7 MB Used in GitHub's Storage 
  > 
@@ -119,9 +119,9 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    293 commits    ██████░░░░░░░░░░░░░░░░░░░   25.11% 
-🌆 Daytime    493 commits    ██████████░░░░░░░░░░░░░░░   42.25% 
-🌃 Evening    223 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
+🌞 Morning    301 commits    ██████░░░░░░░░░░░░░░░░░░░   25.79% 
+🌆 Daytime    501 commits    ██████████░░░░░░░░░░░░░░░   42.93% 
+🌃 Evening    207 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
 🌙 Night      158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.54%
 
 ```
