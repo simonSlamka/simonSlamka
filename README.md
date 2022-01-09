@@ -102,11 +102,9 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%201%20min-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 30 Contributions in the Year 2022
+> 🏆 31 Contributions in the Year 2022
  > 
 > 📦 11.7 MB Used in GitHub's Storage 
  > 
@@ -130,10 +128,10 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 ```text
 Monday       258 commits    █████░░░░░░░░░░░░░░░░░░░░   22.11% 
 Tuesday      198 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-Wednesday    173 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.82% 
+Wednesday    172 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
 Thursday     216 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
 Friday       124 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
-Saturday     81 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.94% 
+Saturday     82 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
 Sunday       117 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.03%
 
 ```
@@ -186,7 +184,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
 
 </p>
