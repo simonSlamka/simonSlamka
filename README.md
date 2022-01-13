@@ -102,11 +102,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 33 Contributions in the Year 2022
+> 🏆 36 Contributions in the Year 2022
  > 
 > 📦 11.7 MB Used in GitHub's Storage 
  > 
@@ -130,8 +130,8 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 ```text
 Monday       258 commits    █████░░░░░░░░░░░░░░░░░░░░   22.11% 
 Tuesday      198 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
-Wednesday    170 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Thursday     216 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.51% 
+Wednesday    167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.31% 
+Thursday     219 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.77% 
 Friday       124 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.63% 
 Saturday     82 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
 Sunday       119 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
