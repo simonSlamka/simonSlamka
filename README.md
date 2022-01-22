@@ -102,9 +102,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%203%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 38 Contributions in the Year 2022
+> 🏆 39 Contributions in the Year 2022
  > 
 > 📦 11.7 MB Used in GitHub's Storage 
  > 
@@ -143,16 +145,16 @@ Sunday       119 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Python                   32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Mark                     32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -173,7 +175,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2022 12:15:17 UTC
+ Last Updated on 22/01/2022 18:15:39 UTC
 <!--END_SECTION:waka-->
 
 </p>
