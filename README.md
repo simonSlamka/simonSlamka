@@ -102,6 +102,8 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2033%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 42 Contributions in the Year 2022
@@ -174,7 +176,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 00:19:16 UTC
+ Last Updated on 25/01/2022 12:15:03 UTC
 <!--END_SECTION:waka-->
 
 </p>
