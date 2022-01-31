@@ -102,8 +102,6 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2022%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 48 Contributions in the Year 2022
@@ -112,9 +110,9 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 86 Public Repositories 
+> 📜 87 Public Repositories 
  > 
-> 🔑 25 Private Repositories  
+> 🔑 24 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -182,7 +180,7 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 18:13:50 UTC
+ Last Updated on 31/01/2022 00:18:45 UTC
 <!--END_SECTION:waka-->
 
 </p>
