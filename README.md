@@ -252,9 +252,9 @@ HTML                     3 repos             █░░░░░░░░░░�
   <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 SteamVR                          🕘 491 hrs 23 mins
+🎮 SteamVR                          🕘 492 hrs 55 mins
 🎮 Deus Ex: Mankind Divided™        🕘 265 hrs 7 mins
-🎮 VRChat                           🕘 196 hrs 53 mins
+🎮 VRChat                           🕘 198 hrs 40 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 190 hrs 9 mins
 🎮 METAL GEAR SOLID V: THE PHANTOM PAIN 🕘 123 hrs 1 mins
 ```
