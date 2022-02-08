@@ -258,7 +258,7 @@ HTML                     3 repos             ██░░░░░░░░░�
   <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 SteamVR                          🕘 508 hrs 7 mins
+🎮 SteamVR                          🕘 509 hrs 18 mins
 🎮 Deus Ex: Mankind Divided™        🕘 265 hrs 7 mins
 🎮 VRChat                           🕘 213 hrs 7 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 190 hrs 9 mins
