@@ -260,7 +260,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 🎮 Deus Ex: Mankind Divided™        🕘 265 hrs 7 mins
 🎮 VRChat                           🕘 213 hrs 7 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 190 hrs 9 mins
-🎮 Elite Dangerous                  🕘 128 hrs 29 mins
+🎮 Elite Dangerous                  🕘 143 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
