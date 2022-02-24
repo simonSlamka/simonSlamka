@@ -16,7 +16,7 @@ jobs:
       # Classic template example
       - name: 📗 Classic template
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -29,7 +29,7 @@ jobs:
       # Terminal template example
       - name: 📙 Terminal template
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           template: terminal
           filename: metrics.terminal.svg
@@ -57,7 +57,7 @@ jobs:
       # Achievements
       - name: 🏆 Achievements
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -75,7 +75,7 @@ jobs:
       # Display recent activity
       - name: 📰 Activity plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -94,7 +94,7 @@ jobs:
       # Anilist plugin with all sections
       - name: 🌸 Anilist plugin (complete)
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.anilist.full.svg
           token: NOT_NEEDED
@@ -114,7 +114,7 @@ jobs:
       # Display ratio of open/closed/merged issues and pull requests on repositories
       - name: 🎟️ Follow-up plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.followup.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -127,7 +127,7 @@ jobs:
       # Display ratio of open/closed/merged issues and pull requests created by user
       - name: 🎟️ Follow-up plugin (user)
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.followup.user.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -144,7 +144,7 @@ jobs:
       # Display gists metrics
       - name: 🎫 Gists plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.gists.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -160,7 +160,7 @@ jobs:
       # GitHub community support statistics
       - name: 💭 GitHub Community Support
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.support.svg
           token: NOT_NEEDED
@@ -175,7 +175,7 @@ jobs:
       # Display coding habits and recent activity (setup timezone for accurate metrics)
       - name: 💡 Habits plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -194,7 +194,7 @@ jobs:
       # Display introduction (user)
       - name: 🙋 Introduction plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.introduction.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -211,7 +211,7 @@ jobs:
       # Display isometric calendar (365 days)
       - name: 📅 Isocalendar plugin (full year)
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -228,7 +228,7 @@ jobs:
       # 🈷️ Display most used languages (with some unwanted languages ignored, with details)
       - name: 🈷️ Languages plugin (detailed)
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.languages.details.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -248,7 +248,7 @@ jobs:
       # Display number of line changed (this is part of base content "repositories" section, so you need to enable it)
       - name: 👨‍💻 Lines plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.lines.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -270,7 +270,7 @@ jobs:
       # Note that in this mode "plugin_music_mode", "plugin_music_provider" and "plugin_music_token" are all required
       - name: 🎼 Music plugin (recent)
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.music.recent.svg
           token: NOT_NEEDED
@@ -290,7 +290,7 @@ jobs:
       # Display badges of organizations with at least one commit from user
       - name: 🎩 Notable contributions
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.notable.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -307,7 +307,7 @@ jobs:
       # Display followers and followed users
       - name: 🧑‍🤝‍🧑 People plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.people.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -329,7 +329,7 @@ jobs:
       # - You'll need to enable "Track project progress" in your projects to display a progress bar
       - name: 🗂️ Projects plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.projects.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -346,7 +346,7 @@ jobs:
       # Display comment reactions statistics
       - name: 🎭 Reactions plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.reactions.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -364,7 +364,7 @@ jobs:
       # Display latest starred repositories
       - name: 🌟 Stars plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.stars.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -381,7 +381,7 @@ jobs:
       # Display starred topics (as labels)
       - name: 📌 Topics plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.topics.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -399,7 +399,7 @@ jobs:
       # Note that a "repo" scope is required
       - name: 🧮 Traffic plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.traffic.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -415,7 +415,7 @@ jobs:
       # Display your wakatime metrics
       - name: ⏰ WakaTime plugin
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
           token: NOT_NEEDED
@@ -433,7 +433,7 @@ jobs:
       # "--halloween" will act as if it was halloween, changing the colors of calendars
       - name: 💬 Header (hidden features)
         if: ${{ success() || failure() }}
-        uses: simonSlamka/metrics@master
+        uses: simonSlamka/metrics@latest
         with:
           filename: metrics.header.svg
           token: ${{ secrets.GH_TOKEN }}
