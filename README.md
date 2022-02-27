@@ -104,24 +104,24 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 143 Contributions in the Year 2022
+> 🏆 149 Contributions in the Year 2022
  > 
 > 📦 11.9 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 100 Public Repositories 
+> 📜 101 Public Repositories 
  > 
-> 🔑 24 Private Repositories  
+> 🔑 25 Private Repositories  
  > 
 **I Mostly Code in C++** 
 
 ```text
-C++                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-C                        6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+C++                      9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51% 
+C                        6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
 
 ```
 
@@ -131,7 +131,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/02/2022 06:13:54 UTC
+ Last Updated on 27/02/2022 00:22:46 UTC
 <!--END_SECTION:waka-->
 
 </p>
