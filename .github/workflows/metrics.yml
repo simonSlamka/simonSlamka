@@ -24,7 +24,7 @@ jobs:
           plugin_lines: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # Terminal template example
       - name: 📙 Terminal template
@@ -45,7 +45,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🧩 PLUGINS
@@ -67,7 +67,7 @@ jobs:
           plugin_achievements_limit: 20
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 📰 Recent activity
@@ -86,7 +86,7 @@ jobs:
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🌸 Anilist
@@ -106,7 +106,7 @@ jobs:
           plugin_anilist_shuffle: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🎟️ Follow-up of issues and pull requests
@@ -122,7 +122,7 @@ jobs:
           plugin_followup: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
           
       # Display ratio of open/closed/merged issues and pull requests created by user
       - name: 🎟️ Follow-up plugin (user)
@@ -136,7 +136,7 @@ jobs:
           plugin_followup_sections: user
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🎫 Gists
@@ -152,7 +152,7 @@ jobs:
           plugin_gists: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
           
       # ======================================================================================
       # 💭 GitHub Community Support
@@ -167,7 +167,7 @@ jobs:
           plugin_support: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 💡 Coding habits
@@ -186,7 +186,7 @@ jobs:
           plugins_errors_fatal: no
           config_timezone: Europe/Paris
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🙋 Introduction
@@ -203,7 +203,7 @@ jobs:
           plugin_introduction: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 📅 Isometric commit calendar
@@ -220,7 +220,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🈷️ Most used languages
@@ -240,7 +240,7 @@ jobs:
           plugin_languages_indepth: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 👨‍💻 Lines of code changed
@@ -256,7 +256,7 @@ jobs:
           plugin_lines: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🎼 Music plugin
@@ -282,7 +282,7 @@ jobs:
           plugin_music_user: simtoon1011
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🎩 Notable contributions
@@ -299,7 +299,7 @@ jobs:
           plugin_notable_repositories: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🧑‍🤝‍🧑 People plugin
@@ -315,7 +315,7 @@ jobs:
           plugin_people: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🗂️ Projects
@@ -338,7 +338,7 @@ jobs:
           plugin_projects_descriptions: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🎭 Comment reactions plugin
@@ -356,7 +356,7 @@ jobs:
           plugin_reactions_details: percentage
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🌟 Recently starred repositories
@@ -373,7 +373,7 @@ jobs:
           plugin_stars_limit: 5
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 📌 Starred topics
@@ -390,7 +390,7 @@ jobs:
           plugin_topics_limit: 15
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # 🧮 Repositories traffic
@@ -407,7 +407,7 @@ jobs:
           plugin_traffic: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # ======================================================================================
       # ⏰ WakaTime plugin
@@ -425,7 +425,7 @@ jobs:
           use_mocked_data: yes
           plugins_errors_fatal: no
           output_action: commit
-          delay: 10
+
 
       # Illustrate header hidden features with debug flags
       # "--cakeday" will act as if it's your account birthday
@@ -440,4 +440,4 @@ jobs:
           base: header
           debug_flags: --cakeday --hireable --halloween
           output_action: commit
-          delay: 10
+
