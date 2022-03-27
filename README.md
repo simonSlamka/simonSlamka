@@ -102,9 +102,11 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2050%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 526 Contributions in the Year 2022
+> 🏆 530 Contributions in the Year 2022
  > 
 > 📦 12.1 MB Used in GitHub's Storage 
  > 
@@ -118,9 +120,9 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 
 ```text
 🌞 Morning    113 commits    █████░░░░░░░░░░░░░░░░░░░░   20.18% 
-🌆 Daytime    283 commits    ████████████░░░░░░░░░░░░░   50.54% 
-🌃 Evening    107 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
-🌙 Night      57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.18%
+🌆 Daytime    287 commits    ████████████░░░░░░░░░░░░░   51.25% 
+🌃 Evening    104 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
+🌙 Night      56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -129,10 +131,10 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 Monday       103 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.39% 
 Tuesday      93 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
 Wednesday    59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
-Thursday     97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+Thursday     93 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
 Friday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
 Saturday     38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.79% 
-Sunday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Sunday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.21%
 
 ```
 
@@ -186,7 +188,7 @@ Swift                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/03/2022 00:35:01 UTC
+ Last Updated on 27/03/2022 12:20:51 UTC
 <!--END_SECTION:waka-->
 
 </p>
