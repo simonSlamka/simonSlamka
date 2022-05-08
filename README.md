@@ -102,6 +102,8 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 695 Contributions in the Year 2022
@@ -143,17 +145,16 @@ Sunday       59 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-HTML                     1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ongakken-web             1 min               ██████████████████░░░░░░░   73.62% 
-ongakken-web_DK          0 secs              ██████░░░░░░░░░░░░░░░░░░░   26.38%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -174,7 +175,7 @@ Swift                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/05/2022 00:33:01 UTC
+ Last Updated on 08/05/2022 00:33:35 UTC
 <!--END_SECTION:waka-->
 
 </p>
