@@ -198,6 +198,12 @@ Swift                    3 repos             ██░░░░░░░░░�
     <img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff" alt="Distro - Debian 10"/>
   </a>
   <a>
+    <img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff" alt="Distro - Arch"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff" alt="Distro - Gentoo"/>
+  </a>
+  <a>
     <img src="https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff" alt="Lang - C++"/>
   </a>
   <a>
