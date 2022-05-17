@@ -47,6 +47,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 ## Basic stats - global, all-time
+[![wakatime](https://wakatime.com/badge/user/70f280d9-2d73-42e5-894d-a0d0f2acbd75.svg)](https://wakatime.com/@70f280d9-2d73-42e5-894d-a0d0f2acbd75)
 <p align="center">
     <a>
         <img align="center" src="https://github.com/simonSlamka/simonSlamka/blob/output/generated/overview.svg"/>
