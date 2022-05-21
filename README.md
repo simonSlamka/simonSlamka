@@ -103,7 +103,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -176,7 +176,7 @@ Swift                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/05/2022 00:33:45 UTC
+ Last Updated on 21/05/2022 12:22:14 UTC
 <!--END_SECTION:waka-->
 
 </p>
