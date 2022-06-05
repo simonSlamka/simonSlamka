@@ -1,12 +1,15 @@
-# Hey, people <img src="https://github.com/simonSlamka/simonSlamka/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="80px">
+<p align="left">
+    <a>
+        <h1>Hey, people</h1>
+        <!--<img src="https://github.com/simonSlamka/simonSlamka/blob/834880a865bb9b629ecbd092282f6ec3f9afb45d/v.gif" width="40px">-->
+    </a>
+</p>
 
-<!--
 <p align="center">
     <a>
         <img src="https://user-images.githubusercontent.com/51794014/126156784-01d29993-1b3b-44ba-93f1-b28e56e9ac73.jpg"/>
     </a>
 </p>
--->
 
 <p align="center">
     <a>
