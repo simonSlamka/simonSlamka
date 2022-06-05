@@ -55,10 +55,15 @@
 	<br />For my computer/phone usage, I use <a href="rescuetime.com">RescueTime</a>.
 	<br />For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
 	<br />
+	<br />
 	<a>
-		<img src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20resting,%20or%20offline." alt="Discord Status">
+		<p>My Discord status. Click the img to join my Discord server! ^^</p>
+		<a href="https://simtoon.tech/discord"><img
+				src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20resting,%20or%20offline."
+				alt="Discord Status"></a>
 	</a>
 </p>
+
 ## Highlights
 <p align="center">
 	<a>
