@@ -93,130 +93,130 @@
 	<br />
 	<br />
 
-	## Detailed stats
-	###### some views might be partly repetitive, but all provide a different level of detail
+## Detailed stats
+###### some views might be partly repetitive, but all provide a different level of detail
 
-	<p align="center">
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.wakatime.svg" />
-		</a>
-		<br />
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.projects.svg" />
-		</a>
-		<br />
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.habits.svg" />
-		</a>
-		<br />
-		<br />
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.followup.svg" />
-		</a>
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.followup.user.svg" />
-		</a>
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.isocalendar.fullyear.svg" />
-		</a>
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.activity.svg" />
-		</a>
-		<br />
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.stars.svg" />
-		</a>
-		<br />
-		<a>
-			<img align="center"
-				src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.gists.svg" />
-		</a>
-	</p>
+<p align="center">
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.wakatime.svg" />
+	</a>
+	<br />
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.projects.svg" />
+	</a>
+	<br />
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.habits.svg" />
+	</a>
+	<br />
+	<br />
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.followup.svg" />
+	</a>
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.followup.user.svg" />
+	</a>
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.isocalendar.fullyear.svg" />
+	</a>
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.activity.svg" />
+	</a>
+	<br />
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.stars.svg" />
+	</a>
+	<br />
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.gists.svg" />
+	</a>
+</p>
 
-	<!--START_SECTION:waka-->
-	![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2054%20mins-blue)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2054%20mins-blue)
 
-	**🐱 My GitHub Data**
+**🐱 My GitHub Data**
 
-	> 🏆 742 Contributions in the Year 2022
-	>
-	> 📦 14.5 MB Used in GitHub's Storage
-	>
-	> 🚫 Not Opted to Hire
-	>
-	> 📜 122 Public Repositories
-	>
-	> 🔑 24 Private Repositories
-	>
-	**I'm an Early 🐤**
+> 🏆 742 Contributions in the Year 2022
+>
+> 📦 14.5 MB Used in GitHub's Storage
+>
+> 🚫 Not Opted to Hire
+>
+> 📜 122 Public Repositories
+>
+> 🔑 24 Private Repositories
+>
+**I'm an Early 🐤**
 
-	```text
-	🌞 Morning 116 commits █████░░░░░░░░░░░░░░░░░░░░ 21.64%
-	🌆 Daytime 248 commits ███████████░░░░░░░░░░░░░░ 46.27%
-	🌃 Evening 119 commits █████░░░░░░░░░░░░░░░░░░░░ 22.2%
-	🌙 Night 53 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 9.89%
+```text
+🌞 Morning 116 commits █████░░░░░░░░░░░░░░░░░░░░ 21.64%
+🌆 Daytime 248 commits ███████████░░░░░░░░░░░░░░ 46.27%
+🌃 Evening 119 commits █████░░░░░░░░░░░░░░░░░░░░ 22.2%
+🌙 Night 53 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 9.89%
 
-	```
-	📅 **I'm Most Productive on Thursday**
+```
+📅 **I'm Most Productive on Thursday**
 
-	```text
-	Monday 98 commits ████░░░░░░░░░░░░░░░░░░░░░ 18.28%
-	Tuesday 86 commits ████░░░░░░░░░░░░░░░░░░░░░ 16.04%
-	Wednesday 51 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 9.51%
-	Thursday 126 commits ██████░░░░░░░░░░░░░░░░░░░ 23.51%
-	Friday 89 commits ████░░░░░░░░░░░░░░░░░░░░░ 16.6%
-	Saturday 31 commits █░░░░░░░░░░░░░░░░░░░░░░░░ 5.78%
-	Sunday 55 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 10.26%
+```text
+Monday 98 commits ████░░░░░░░░░░░░░░░░░░░░░ 18.28%
+Tuesday 86 commits ████░░░░░░░░░░░░░░░░░░░░░ 16.04%
+Wednesday 51 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 9.51%
+Thursday 126 commits ██████░░░░░░░░░░░░░░░░░░░ 23.51%
+Friday 89 commits ████░░░░░░░░░░░░░░░░░░░░░ 16.6%
+Saturday 31 commits █░░░░░░░░░░░░░░░░░░░░░░░░ 5.78%
+Sunday 55 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 10.26%
 
-	```
-
-
-	📊 **This Week I Spent My Time On**
-
-	```text
-	⌚︎ Time Zone: Europe/Budapest
-
-	💬 Programming Languages:
-	Python 28 mins █████████████████████████ 100.0%
-
-	🔥 Editors:
-	VS Code 28 mins █████████████████████████ 100.0%
-
-	🐱‍💻 Projects:
-	Mark 28 mins █████████████████████████ 100.0%
-
-	💻 Operating System:
-	Windows 28 mins █████████████████████████ 100.0%
-
-	```
-
-	**I Mostly Code in Python**
-
-	```text
-	Python 9 repos ██████░░░░░░░░░░░░░░░░░░░ 24.32%
-	C++ 8 repos █████░░░░░░░░░░░░░░░░░░░░ 21.62%
-	C 4 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 10.81%
-	Java 3 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 8.11%
-	Swift 3 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 8.11%
-
-	```
+```
 
 
-	**Timeline**
+📊 **This Week I Spent My Time On**
 
-	![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png)
+```text
+⌚︎ Time Zone: Europe/Budapest
+
+💬 Programming Languages:
+Python 28 mins █████████████████████████ 100.0%
+
+🔥 Editors:
+VS Code 28 mins █████████████████████████ 100.0%
+
+🐱‍💻 Projects:
+Mark 28 mins █████████████████████████ 100.0%
+
+💻 Operating System:
+Windows 28 mins █████████████████████████ 100.0%
+
+```
+
+**I Mostly Code in Python**
+
+```text
+Python 9 repos ██████░░░░░░░░░░░░░░░░░░░ 24.32%
+C++ 8 repos █████░░░░░░░░░░░░░░░░░░░░ 21.62%
+C 4 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 10.81%
+Java 3 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 8.11%
+Swift 3 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 8.11%
+
+```
 
 
-	Last Updated on 05/06/2022 14:21:02 UTC
-	<!--END_SECTION:waka-->
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png)
+
+
+Last Updated on 05/06/2022 14:21:02 UTC
+<!--END_SECTION:waka-->
 
 </p>
 
