@@ -307,10 +307,10 @@ Last Updated on 05/06/2022 14:21:02 UTC
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 SteamVR 🕘 543 hrs 20 mins
-🎮 Deus Ex: Mankind Divided™ 🕘 265 hrs 7 mins
-🎮 VRChat 🕘 217 hrs 40 mins
-🎮 Elite Dangerous 🕘 209 hrs 26 mins
+🎮 SteamVR                          🕘 543 hrs 20 mins
+🎮 Deus Ex: Mankind Divided™        🕘 265 hrs 7 mins
+🎮 VRChat                           🕘 217 hrs 40 mins
+🎮 Elite Dangerous                  🕘 209 hrs 26 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 191 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
