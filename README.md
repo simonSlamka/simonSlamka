@@ -59,7 +59,7 @@
 <p align="center">My Discord status. Click the img to join my Discord server! ^^
 	<br />
 	<a href="https://simtoon.tech/discord" target="_blank"><img
-			src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20exercising,%20or%20offline."
+			src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20exercising,%20or%20otherwise%20offline."
 			alt="Discord Status"></a></p>
 
 ## Highlights
