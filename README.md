@@ -335,6 +335,6 @@
 			style="border-radius:2px" />
 		<a href="https://ko-fi.com/simtoon" target='_blank'><img height='23' width="100"
 				src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" alt="Buy Coffee for Simon" />
-			<a href="https://www.paypal.com/donate?hosted_button_id=ZQ9NUEPAZK47C"><img
+			<a href="https://www.paypal.com/donate?hosted_button_id=ZQ9NUEPAZK47C"><img height='23' width="100"
 					src="https://ionicabizau.github.io/badges/paypal.svg" alt="Use PayPal to buy me a coffee ^^" />
 </p>
