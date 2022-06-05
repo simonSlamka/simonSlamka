@@ -105,7 +105,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -148,16 +148,16 @@ Sunday       55 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-Python                   58 mins             █████████████████████████   100.0%
+Python                   28 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.0%
+VS Code                  28 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Mark                     58 mins             █████████████████████████   100.0%
+Mark                     28 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.0%
+Windows                  28 mins             █████████████████████████   100.0%
 
 ```
 
@@ -178,7 +178,7 @@ Swift                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/06/2022 00:39:52 UTC
+ Last Updated on 05/06/2022 12:20:32 UTC
 <!--END_SECTION:waka-->
 
 </p>
