@@ -54,10 +54,9 @@
 	time I spend asleep, the more productive I seem to be 😂.
 	<br />For my computer/phone usage, I use <a href="rescuetime.com">RescueTime</a>.
 	<br />For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
-
+	<br />
 	<a>
-		<img src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20resting,%20or%20offline."
-			alt="Discord Status" />
+		<img src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20resting,%20or%20offline." alt="Discord Status">
 	</a>
 </p>
 ## Highlights
