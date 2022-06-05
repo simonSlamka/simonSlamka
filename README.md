@@ -54,14 +54,14 @@
 	time I spend asleep, the more productive I seem to be 😂.
 	<br />For my computer/phone usage, I use <a href="rescuetime.com">RescueTime</a>.
 	<br />For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
+	</p>
 	<br />
 	<br />
 	<p align="center">My Discord status. Click the img to join my Discord server! ^^
-	<br />
-	<a href="https://simtoon.tech/discord" target="_blank"><img
-			src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20resting,%20or%20offline."
-			alt="Discord Status"></a></p>
-</p>
+		<br />
+		<a href="https://simtoon.tech/discord" target="_blank"><img
+				src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20resting,%20or%20offline."
+				alt="Discord Status"></a></p>
 
 ## Highlights
 <p align="center">
