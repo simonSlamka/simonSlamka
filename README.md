@@ -11,6 +11,8 @@
     </a>
 </p>
 
+[![My Discord Status](https://lanyard.cnrad.dev/api/849766024382906399)](https://discord.com/users/849766024382906399)
+
 <p align="center">
     <a>
         <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.classic.svg"/>
