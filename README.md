@@ -11,8 +11,6 @@
     </a>
 </p>
 
-[![My Discord Status](https://lanyard.cnrad.dev/api/849766024382906399)](https://discord.com/users/849766024382906399)
-
 <p align="center">
     <a>
         <img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.classic.svg"/>
@@ -43,6 +41,8 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 <br/>For my computer/phone usage, I use <a href="rescuetime.com">RescueTime</a>.
 <br/>For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
 </p>
+
+[![My Discord Status](https://lanyard.cnrad.dev/api/849766024382906399)](https://discord.com/users/849766024382906399)
 
 ## Highlights
 <p align="center">
