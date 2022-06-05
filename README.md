@@ -42,7 +42,7 @@ I'm a student programmer who, among else, makes games. Since I was a child, I wa
 <br/>For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
 </p>
 
-[![My Discord Status](https://lanyard.cnrad.dev/api/849766024382906399)](https://discord.com/users/849766024382906399)
+[![My Discord Status](https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20resting,%20or%20offline.)](https://discord.com/users/849766024382906399)
 
 ## Highlights
 <p align="center">
