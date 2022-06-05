@@ -327,3 +327,9 @@ Swift                    3 repos             ██░░░░░░░░░�
 		<img align="center" src="https://komarev.com/ghpvc/?username=simonSlamka" alt="Profile visits (pageviews)" />
 	</a>
 </p>
+
+## Support
+<p align="center">
+	  <a href="https://www.buymeacoffee.com/simtoon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+		    <a href='https://ko-fi.com/simtoon' target='_blank'><img height='23' width="100" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" alt="Buy Coffee for Simon" />
+	
