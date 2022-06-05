@@ -142,81 +142,81 @@
 	</p>
 
 	<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2054%20mins-blue)
+	![Code Time](http://img.shields.io/badge/Code%20Time-535%20hrs%2054%20mins-blue)
 
-**🐱 My GitHub Data** 
+	**🐱 My GitHub Data**
 
-> 🏆 742 Contributions in the Year 2022
- > 
-> 📦 14.5 MB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 122 Public Repositories 
- > 
-> 🔑 24 Private Repositories  
- > 
-**I'm an Early 🐤** 
+	> 🏆 742 Contributions in the Year 2022
+	>
+	> 📦 14.5 MB Used in GitHub's Storage
+	>
+	> 🚫 Not Opted to Hire
+	>
+	> 📜 122 Public Repositories
+	>
+	> 🔑 24 Private Repositories
+	>
+	**I'm an Early 🐤**
 
-```text
-🌞 Morning    116 commits    █████░░░░░░░░░░░░░░░░░░░░   21.64% 
-🌆 Daytime    248 commits    ███████████░░░░░░░░░░░░░░   46.27% 
-🌃 Evening    119 commits    █████░░░░░░░░░░░░░░░░░░░░   22.2% 
-🌙 Night      53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89%
+	```text
+	🌞 Morning 116 commits █████░░░░░░░░░░░░░░░░░░░░ 21.64%
+	🌆 Daytime 248 commits ███████████░░░░░░░░░░░░░░ 46.27%
+	🌃 Evening 119 commits █████░░░░░░░░░░░░░░░░░░░░ 22.2%
+	🌙 Night 53 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 9.89%
 
-```
-📅 **I'm Most Productive on Thursday** 
+	```
+	📅 **I'm Most Productive on Thursday**
 
-```text
-Monday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
-Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
-Wednesday    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.51% 
-Thursday     126 commits    ██████░░░░░░░░░░░░░░░░░░░   23.51% 
-Friday       89 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.6% 
-Saturday     31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.78% 
-Sunday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26%
+	```text
+	Monday 98 commits ████░░░░░░░░░░░░░░░░░░░░░ 18.28%
+	Tuesday 86 commits ████░░░░░░░░░░░░░░░░░░░░░ 16.04%
+	Wednesday 51 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 9.51%
+	Thursday 126 commits ██████░░░░░░░░░░░░░░░░░░░ 23.51%
+	Friday 89 commits ████░░░░░░░░░░░░░░░░░░░░░ 16.6%
+	Saturday 31 commits █░░░░░░░░░░░░░░░░░░░░░░░░ 5.78%
+	Sunday 55 commits ██░░░░░░░░░░░░░░░░░░░░░░░ 10.26%
 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Budapest
-
-💬 Programming Languages: 
-Python                   28 mins             █████████████████████████   100.0%
-
-🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Mark                     28 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32% 
-C++                      8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62% 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-Swift                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
-
-```
+	```
 
 
-**Timeline**
+	📊 **This Week I Spent My Time On**
 
-![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
+	```text
+	⌚︎ Time Zone: Europe/Budapest
+
+	💬 Programming Languages:
+	Python 28 mins █████████████████████████ 100.0%
+
+	🔥 Editors:
+	VS Code 28 mins █████████████████████████ 100.0%
+
+	🐱‍💻 Projects:
+	Mark 28 mins █████████████████████████ 100.0%
+
+	💻 Operating System:
+	Windows 28 mins █████████████████████████ 100.0%
+
+	```
+
+	**I Mostly Code in Python**
+
+	```text
+	Python 9 repos ██████░░░░░░░░░░░░░░░░░░░ 24.32%
+	C++ 8 repos █████░░░░░░░░░░░░░░░░░░░░ 21.62%
+	C 4 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 10.81%
+	Java 3 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 8.11%
+	Swift 3 repos ██░░░░░░░░░░░░░░░░░░░░░░░ 8.11%
+
+	```
 
 
- Last Updated on 05/06/2022 14:21:02 UTC
-<!--END_SECTION:waka-->
+	**Timeline**
+
+	![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png)
+
+
+	Last Updated on 05/06/2022 14:21:02 UTC
+	<!--END_SECTION:waka-->
 
 </p>
 
@@ -307,10 +307,10 @@ Swift                    3 repos             ██░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 SteamVR                          🕘 543 hrs 20 mins
-🎮 Deus Ex: Mankind Divided™        🕘 265 hrs 7 mins
-🎮 VRChat                           🕘 217 hrs 40 mins
-🎮 Elite Dangerous                  🕘 209 hrs 26 mins
+🎮 SteamVR 🕘 543 hrs 20 mins
+🎮 Deus Ex: Mankind Divided™ 🕘 265 hrs 7 mins
+🎮 VRChat 🕘 217 hrs 40 mins
+🎮 Elite Dangerous 🕘 209 hrs 26 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 191 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
@@ -330,6 +330,11 @@ Swift                    3 repos             ██░░░░░░░░░�
 
 ## Support
 <p align="center">
-	  <a href="https://www.buymeacoffee.com/simtoon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
-		    <a href='https://ko-fi.com/simtoon' target='_blank'><img height='23' width="100" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" alt="Buy Coffee for Simon" />
-	
+	<a href="https://www.buymeacoffee.com/simtoon" target="_blank"><img
+			src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100"
+			style="border-radius:2px" />
+		<a href="https://ko-fi.com/simtoon" target='_blank'><img height='23' width="100"
+				src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" alt="Buy Coffee for Simon" />
+			<a href="https://www.paypal.com/donate?hosted_button_id=ZQ9NUEPAZK47C"><img
+					src="https://ionicabizau.github.io/badges/paypal.svg" alt="Use PayPal to buy me a coffee ^^" />
+</p>
