@@ -142,7 +142,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2015%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -221,7 +221,7 @@ Swift                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/06/2022 00:35:11 UTC
+ Last Updated on 17/06/2022 12:21:26 UTC
 <!--END_SECTION:waka-->
 
 </p>
