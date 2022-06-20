@@ -313,10 +313,10 @@ Swift                    3 repos             ██░░░░░░░░░�
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 SteamVR                          🕘 543 hrs 20 mins
+🎮 SteamVR                          🕘 544 hrs 9 mins
 🎮 Deus Ex: Mankind Divided™        🕘 265 hrs 7 mins
 🎮 VRChat                           🕘 217 hrs 40 mins
-🎮 Elite Dangerous                  🕘 213 hrs 23 mins
+🎮 Elite Dangerous                  🕘 215 hrs 43 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 192 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
