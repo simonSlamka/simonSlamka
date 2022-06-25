@@ -142,7 +142,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -185,16 +185,17 @@ Sunday       55 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Budapest
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     13 mins             █████████████████████████   100.0% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Notepad++                13 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          13 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -215,7 +216,7 @@ Swift                    3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/06/2022 00:35:51 UTC
+ Last Updated on 25/06/2022 12:20:35 UTC
 <!--END_SECTION:waka-->
 
 </p>
