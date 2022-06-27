@@ -310,7 +310,7 @@ Swift                    3 repos             ██░░░░░░░░░�
 ```text
 🎮 SteamVR                          🕘 545 hrs 13 mins
 🎮 Deus Ex: Mankind Divided™        🕘 265 hrs 7 mins
-🎮 Elite Dangerous                  🕘 239 hrs 28 mins
+🎮 Elite Dangerous                  🕘 245 hrs 57 mins
 🎮 VRChat                           🕘 217 hrs 40 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 192 hrs 45 mins
 ```
