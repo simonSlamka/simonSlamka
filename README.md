@@ -8,7 +8,7 @@
 <p align="center">
 	<a>
 		<img
-			src="https://user-images.githubusercontent.com/51794014/126156784-01d29993-1b3b-44ba-93f1-b28e56e9ac73.jpg" />
+			src="https://ongakken.com/wp-content/uploads/2020/12/cropped-Ongakken-logo-O_TM-transparent.png" height="175px" width="150px"/>
 	</a>
 </p>
 
