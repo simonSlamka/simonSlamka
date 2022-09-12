@@ -61,6 +61,12 @@
 	<a href="https://simtoon.tech/discord" target="_blank"><img
 			src="https://lanyard.cnrad.dev/api/849766024382906399?animated:true&idleMessage=Sleeping,%20exercising,%20or%20otherwise%20offline."
 			alt="Discord Status"></a></p>
+<br/>
+<!--
+<p align="center">My last watched show/movie
+<br />
+<a target="_blank" href="https://trakt.tv/users/smtn1011"><img width="500" height="133" alt="smtn1011" src="https://widgets.trakt.tv/users/5136b7a62b4c0b9555b29b40f3b56582/watched/banner@2x.jpg" /></a></p>
+-->
 
 ## Highlights
 <p align="center">
