@@ -8,7 +8,7 @@
 <p align="center">
 	<a>
 		<img
-			src="https://ongakken.com/OngakkenGameStudio-logo-O_TM_noGradient_noBg_smaller.png" height="200px" width="160px"/>
+			src="https://ongakken.com/OngakkenGameStudio-logo-O_TM_noGradient_noBg_smaller.png" height="300px" width="205px"/>
 	</a>
 </p>
 
