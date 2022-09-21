@@ -277,15 +277,11 @@ Swift                    3 repos             ██░░░░░░░░░�
 		<img src="https://img.shields.io/badge/Lang-Python-informational?style=flat&color=0000ff" alt="Lang - Python" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio-informational?style=flat&color=0000ff"
+		<img src="https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio%202022-informational?style=flat&color=0000ff"
 			alt="IDE - MS Visual Studio" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&color=0000ff" alt="IDE - Xcode" />
-	</a>
-	<a>
-		<img src="https://img.shields.io/badge/IDE-JetBrains%20Rider-informational?style=flat&color=0000ff"
-			alt="IDE - Rider" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff"
