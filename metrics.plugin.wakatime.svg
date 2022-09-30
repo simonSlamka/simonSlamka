@@ -61,13 +61,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Mark</span>
-                                <div class="bar" style="width: 50.632000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
+                                <div class="bar" style="width: 60.056%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">MySoil</span>
-                                <div class="bar" style="width: 29.368%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">37%</span>
+                                <div class="bar" style="width: 19.944%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">25%</span>
                             </div>
                         </div>
                     </section>
@@ -76,23 +76,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 50.632000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">63%</span>
+                                <div class="bar" style="width: 60.056%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Unreal Engine</span>
-                                <div class="bar" style="width: 17.919999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
+                                <div class="bar" style="width: 11.872%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Objective-C</span>
-                                <div class="bar" style="width: 6.504000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 4.5840000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 4.936%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 3.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                         </div>
                     </section>
