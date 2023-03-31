@@ -73,11 +73,6 @@ code in Copilot.
 	listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering
 	ways
 	to improve and become more performant.
-	<br />I use <a href="exist.io">Exist</a> on a daily basis. The top thing about <i>Exist</i> is that it aggregates
-	data
-	from many sources, so you can, over time, see correlations between data sources. For example, in my case, the less
-	time I spend asleep, the more productive I seem to be 😂.
-	<br />For my computer/phone usage, I use <a href="rescuetime.com">RescueTime</a>.
 	<br />For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
 </p>
 <br />
