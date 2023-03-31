@@ -1,3 +1,4 @@
+<!---
 # == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
@@ -17,8 +18,7 @@ code in Copilot.
 
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
-
-
+--->
 
 
 <p align="left">
