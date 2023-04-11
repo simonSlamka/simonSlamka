@@ -254,20 +254,8 @@ Swift                    3 repos             ██░░░░░░░░░�
 		<img src="https://img.shields.io/badge/OS-GNU%2FLinux-informational?style=flat&color=0000ff" alt="GNU/Linux" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/OS-Microsoft%20Windows%2010%20amd64-informational?style=flat&color=0000ff"
-			alt="OS - MS Windows 10" />
-	</a>
-	<a>
-		<img src="https://img.shields.io/badge/OS-Microsoft%20Windows%2011%20arm64-informational?style=flat&color=0000ff"
-			alt="OS - MS Windows 11" />
-	</a>
-	<a>
-		<img src="https://img.shields.io/badge/OS-macOS%20Monterey-informational?style=flat&color=0000ff"
-			alt="OS - macOS Monterey" />
-	</a>
-	<a>
-		<img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff"
-			alt="Distro - Debian 10" />
+		<img src="https://img.shields.io/badge/Distro-Debian%2011-informational?style=flat&color=0000ff"
+			alt="Distro - Debian 11" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Distro-SteamOS-informational?style=flat&color=0000ff" alt="Distro - Arch" />
@@ -289,15 +277,12 @@ Swift                    3 repos             ██░░░░░░░░░�
 		<img src="https://img.shields.io/badge/Lang-Python-informational?style=flat&color=0000ff" alt="Lang - Python" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/IDE-Microsoft%20Visual%20Studio%202022-informational?style=flat&color=0000ff"
-			alt="IDE - MS Visual Studio" />
-	</a>
-	<a>
-		<img src="https://img.shields.io/badge/IDE-Xcode-informational?style=flat&color=0000ff" alt="IDE - Xcode" />
-	</a>
-	<a>
 		<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff"
 			alt="Editor - VSCode" />
+	</a>
+	<a>
+		<img src="https://img.shields.io/badge/Editor-Codium-informational?style=flat&color=0000ff"
+			alt="Editor - Codium" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=0000ff" alt="Shell - zsh" />
@@ -307,8 +292,8 @@ Swift                    3 repos             ██░░░░░░░░░�
 			alt="Cloud - Linode" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Cloud-Google%20Firebase-informational?style=flat&color=0000ff"
-			alt="Cloud - Google Firebase" />
+		<img src="https://img.shields.io/badge/Cloud-Hetzner-informational?style=flat&color=0000ff"
+			alt="Cloud - Hetzner" />
 	</a>
 </p>
 
@@ -316,7 +301,7 @@ Swift                    3 repos             ██░░░░░░░░░�
 
 <p align="center">
 	<ul>
-		<li>🔭 I’m currently working on Ongakken's next game</li>
+		<li>🔭 I’m currently working on ML stuff</li>
 		<li>🌱 <s>I’m currently learning Java</s>
 			<-- No, just no. Don't judge me.</li> <li>😄 Pronouns: He/Him
 		</li>
