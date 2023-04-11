@@ -133,6 +133,11 @@ code in Copilot.
 			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.habits.svg" />
 	</a>
 	<br />
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.languages.details.svg" />
+	</a>
+	<br />
 	<br />
 	<a>
 		<img align="center"
