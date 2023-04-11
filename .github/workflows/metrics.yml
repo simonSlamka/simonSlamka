@@ -462,8 +462,54 @@ jobs:
         uses: simonSlamka/metrics@latest
         with:
           filename: metrics.plugin.reactions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
+
+
+
+      - name: 💝 GitHub Sponsorships
+        uses: simonSlamka/metrics@latest
+        with:
+          filename: metrics.plugin.sponsorships.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_sponsorships: yes
+
+
+
+      - name: Full history calendar
+        uses: simonSlamka/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+
+
+
+      - name: Indepth analysis
+        uses: simonSlamka/metrics@latest
+        with:
+          filename: metrics.plugin.notable.indepth.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
+
+
+      - name: Code snippet of the day
+        uses: simonSlamka/metrics@latest
+        with:
+          filename: metrics.plugin.code.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_code: yes
+          plugin_code_languages: python, c++, javascript, c, bash
+          plugin_code_visibility: all
+          plugin_code_load: 500
