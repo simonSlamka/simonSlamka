@@ -254,8 +254,8 @@ Swift                    3 repos             ██░░░░░░░░░�
 		<img src="https://img.shields.io/badge/OS-GNU%2FLinux-informational?style=flat&color=0000ff" alt="GNU/Linux" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Distro-Debian%2010-informational?style=flat&color=0000ff"
-			alt="Distro - Debian 10" />
+		<img src="https://img.shields.io/badge/Distro-Debian%2011-informational?style=flat&color=0000ff"
+			alt="Distro - Debian 11" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Distro-SteamOS-informational?style=flat&color=0000ff" alt="Distro - Arch" />
