@@ -158,6 +158,11 @@ code in Copilot.
 	<br />
 	<a>
 		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.reactions.svg" />
+	</a>
+	<br />
+	<a>
+		<img align="center"
 			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.stars.svg" />
 	</a>
 	<br />
