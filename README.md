@@ -160,6 +160,11 @@ code in Copilot.
 		<img align="center"
 			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.gists.svg" />
 	</a>
+	<br />
+	<a>
+		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.music.recent.svg" />
+	</a>
 </p>
 
 <!--START_SECTION:waka-->
