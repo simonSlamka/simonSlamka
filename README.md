@@ -76,7 +76,12 @@ code in Copilot.
 	<br />For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
 </p>
 
-<br/>
+<p align="center">
+	<a>
+		<img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.16personalities.svg"/>
+
+	<br/>
+</p>
 <!--
 <p align="center">My last watched show/movie
 <br />
