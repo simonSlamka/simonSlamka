@@ -80,7 +80,6 @@ code in Copilot.
 	<a>
 		<img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.16personalities.svg"/>
 
-	<br/>
 </p>
 <!--
 <p align="center">My last watched show/movie
@@ -115,6 +114,11 @@ code in Copilot.
 	<a>
 		<img align="center"
 			src="http://github-readme-streak-stats.herokuapp.com?user=simonSlamka&theme=tokyonight_duo&hide_border=true" />
+	</a>
+	<br />
+	<a>
+		<img align="center"
+		     src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.code.svg"/>
 	</a>
 	<br />
 	<br />
