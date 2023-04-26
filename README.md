@@ -73,7 +73,7 @@ code in Copilot.
 	listening history feels exciting. It allows you to take a look at the depths of your life, potentially uncovering
 	ways
 	to improve and become more performant.
-	<br />For coding tracking, I use <a href="wakatime.com/simonSlamka">WakaTime</a>.
+	<br />For coding tracking, I use <a href="https://wakatime.com/simonSlamka">WakaTime</a>.
 </p>
 
 <p align="center">
