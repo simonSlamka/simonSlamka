@@ -33,7 +33,7 @@ code in Copilot.
 <p align="center">
 	<a>
 		<img
-			src="https://github.com/ongakken/ongakken-web/blob/0656d0f33798f7f60ad0c3d1397828c982e333f5/public/OngakkenAILab-logo-O_TM_transparent.png?raw=true" height="300px" width="230px"/>
+			src="https://github.com/ongakken/ongakken-web/blob/0656d0f33798f7f60ad0c3d1397828c982e333f5/public/OngakkenAILab-logo-O_TM_transparent.png?raw=true" height="400px" width="300px"/>
 	</a>
 </p>
 
