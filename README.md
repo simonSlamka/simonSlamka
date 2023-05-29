@@ -262,7 +262,7 @@ code in Copilot.
 🎮 Elite Dangerous                  🕘 269 hrs 19 mins
 🎮 Deus Ex: Mankind Divided™        🕘 265 hrs 25 mins
 🎮 VRChat                           🕘 222 hrs 52 mins
-🎮 Deus Ex: Human Revolution - Director's Cut 🕘 218 hrs 23 mins
+🎮 Deus Ex: Human Revolution - Director's Cut 🕘 221 hrs 48 mins
 🔫 Counter-Strike: Global Offensive 🕘 184 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
