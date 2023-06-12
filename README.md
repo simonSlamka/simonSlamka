@@ -94,6 +94,16 @@ code in Copilot.
 			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.achievements.svg" />
 	</a>
 </p>
+<br/>
+[![simonSlamka's GitHub | Stats](https://stats.quine.sh/simonSlamka/github?theme=dark)](https://quine.sh)
+
+<br/>
+
+[![simonSlamka's GitHub | Languages Over Time](https://stats.quine.sh/simonSlamka/languages-over-time?theme=dark)](https://quine.sh)
+
+<br/>
+
+[![simonSlamka's GitHub | Topics](https://stats.quine.sh/simonSlamka/topics-over-time?theme=dark)](https://quine.sh)
 
 ## Basic stats - global, all-time
 
