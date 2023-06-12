@@ -95,7 +95,13 @@ code in Copilot.
 	</a>
 </p>
 <br/>
-[![simonSlamka's GitHub | Stats](https://stats.quine.sh/simonSlamka/github?theme=dark)](https://quine.sh)
+
+<p align="center">
+	<a>
+		<img align="center"
+			src="https://stats.quine.sh/simonSlamka/github?theme=dark"/>
+	</a>
+</p>
 
 <br/>
 
