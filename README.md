@@ -103,13 +103,19 @@ code in Copilot.
 	</a>
 </p>
 
-<br/>
+<p align="center">
+	<a>
+		<img align="center"
+			src="https://stats.quine.sh/simonSlamka/languages-over-time?theme=dark"/>
+	</a>
+</p>
 
-[![simonSlamka's GitHub | Languages Over Time](https://stats.quine.sh/simonSlamka/languages-over-time?theme=dark)](https://quine.sh)
-
-<br/>
-
-[![simonSlamka's GitHub | Topics](https://stats.quine.sh/simonSlamka/topics-over-time?theme=dark)](https://quine.sh)
+<p align="center">
+	<a>
+		<img align="center"
+			src="https://stats.quine.sh/simonSlamka/topics-over-time?theme=dark"/>
+	</a>
+</p>
 
 ## Basic stats - global, all-time
 
