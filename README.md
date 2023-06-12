@@ -94,7 +94,6 @@ code in Copilot.
 			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.achievements.svg" />
 	</a>
 </p>
-<br/>
 
 <p align="center">
 	<a>
