@@ -217,7 +217,7 @@ code in Copilot.
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Distro-Debian%2011-informational?style=flat&color=0000ff"
-			alt="Distro - Debian 11" />
+			alt="Distro - Debian 12" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Distro-SteamOS-informational?style=flat&color=0000ff" alt="Distro - Arch" />
