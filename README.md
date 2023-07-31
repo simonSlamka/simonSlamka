@@ -58,7 +58,7 @@ code in Copilot.
 ## What I do
 
 <p align="center">
-	I'm a programmer who and I, among else, do research in the machine learning field.</br>
+	I'm a programmer and I, among else, do research in the machine learning field.</br>
  	</br>
 	Since I was a child, I wanted to write stories and then somehow
 	be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing:
