@@ -58,7 +58,7 @@ code in Copilot.
 ## What I do
 
 <p align="center">
-[Details in my Mind](https://simtoon.eu/)
+My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 </p>
 
 ## Something more about me
