@@ -58,14 +58,7 @@ code in Copilot.
 ## What I do
 
 <p align="center">
-	I'm a programmer and I, among else, do research in the machine learning field.</br>
- 	</br>
-	Since I was a child, I wanted to write stories and then somehow
-	be able to show them to the world. I started writing e-books, but that wasn't satisfactory; something was missing:
-	there was no way to interact with the story and change how it unfolds. So I got into game dev. A few years have
-	passed, and I have incorporated my own company, and started making primarily games, but my company also made websites, 		and provided tech support. At the beginning of the "AI hype" at the beginning of 2023, I made a difficult decision to 		step away from game development and get into machine learning. I had core knowledge there, so the transition was 		relatively easy. Ever since, I've been in this field.</br>
- 	</br>
- 	Today, I specialize in natural language processing, specifically using the Transformer model architecture. I code in 		Python and have completed over 10 functional personal projects with it. I am currently working on another one - a 		research project, <a href="https://github.com/ongakken/ACARIS">ACARIS</a>, aimed at improving social understanding 		within NLP.
+[Info in my Mind](https://simtoon.eu/)
 </p>
 
 ## Something more about me
