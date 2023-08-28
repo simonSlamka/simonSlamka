@@ -211,7 +211,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 		<img src="https://img.shields.io/badge/OS-GNU%2FLinux-informational?style=flat&color=0000ff" alt="GNU/Linux" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Distro-Debian%2011-informational?style=flat&color=0000ff"
+		<img src="https://img.shields.io/badge/Distro-Debian%2012-informational?style=flat&color=0000ff"
 			alt="Distro - Debian 12" />
 	</a>
 	<a>
