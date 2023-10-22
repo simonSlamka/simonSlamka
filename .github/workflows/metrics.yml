@@ -513,3 +513,15 @@ jobs:
           plugin_code_languages: python, c++, javascript, c, bash
           plugin_code_visibility: all
           plugin_code_load: 500
+
+      - name: Recently played games
+        uses: simonSlamka/metrics@latest
+        with:
+          filename: metrics.plugin.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ STEAM_API_KEY }}
+          plugin_steam: yes
+          plugin_steam_user: ${{ STEAM_ID }}
+          plugin_steam_sections: recently-played, most-played
+          plugin_steam_achievements_limit: 0
