@@ -20,7 +20,8 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.GH_TOKEN }}
-          base: header, repositories
+          base: header, repositories, activity, community
+          base_indepth: yes
           plugin_lines: yes
           plugins_errors_fatal: no
           output_action: commit
