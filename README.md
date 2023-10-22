@@ -292,6 +292,12 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 <p align="center">
 	<a>
 		<img align="center"
+			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.steam.svg" />
+	</a>
+
+<p align="center">
+	<a>
+		<img align="center"
 			src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.anilist.full.svg" />
 	</a>
 	<br />
