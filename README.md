@@ -38,22 +38,6 @@ code in Copilot.
 </p>
 
 <p align="center">
-    <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0006-8579-5472"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0006-8579-5472
-    </a>
-</p>
-
-<p align="center">
 	<a>
 		<img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.classic.svg" />
 	</a>
@@ -69,6 +53,22 @@ code in Copilot.
 	<a>
 		<img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.people.svg" />
 	</a>
+</p>
+
+<p align="center">
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0006-8579-5472"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0006-8579-5472
+    </a>
 </p>
 
 ## What I do
