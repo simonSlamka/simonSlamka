@@ -103,6 +103,17 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 		<img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.16personalities.svg"/>
 
 </p>
+
+### "Dark Triad"
+
+</p>
+
+<p align="center">
+	<a>
+		<img src="https://github.com/simonSlamka/simonSlamka/blob/93a40834fa5eb719062c5b93e7ed7cfcce00324b/Screenshot%20from%202023-12-19%2008-15-13.png"/>
+
+</p>
+
 <!--
 <p align="center">My last watched show/movie
 <br />
