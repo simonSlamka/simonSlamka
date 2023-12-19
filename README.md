@@ -86,6 +86,17 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 	to improve and become more performant.
 	<br />For coding tracking, I use <a href="https://wakatime.com/simonSlamka">WakaTime</a>.
 </p>
+</br>
+
+### Big Five
+
+<p align="center">
+	<a>
+		<img src="https://github.com/simonSlamka/simonSlamka/blob/3ffce6a9ea6071fb6ef3aadbcaca3f5aa45ab85d/BIG5-graphic.png"/>
+
+### MBTI
+
+</p>
 
 <p align="center">
 	<a>
