@@ -72,15 +72,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgMAAgMAAAAAAAAAAAAABQcEBggACQECA//EADEQAAEDAwIEBQMDBQEAAAAAAAECAwQABREGIQcSQVETIjFhcQgUQhWBkSNSYnKhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAADAQQFBgL/xAAlEQACAgIABQQDAAAAAAAAAAABAgADBBEFEyExQRIyYbGBkdH/2gAMAwEAAhEDEQA/AMr7EEn9qP6N0jd9X3MRLPGW6RjnWBsgdzXjQ2lpur9QxbVASQp1QC3MZCB3Nbu0Ho+2aLsrEC1tIQ6lI8V4jKlq679qIRWaF+nmzWtpqTqKS5MmDzDwFlASexFN+BaINhh5jBYbQNipWdqLknmycH4quX6Zz3q329lWSXMvD/E0q+0VIWMTfaKkLGE5sCNeI4RJCilY/E42pVa34BaevqHHrW87Dnq/N5wqT/FNpC/BmeED5cbCpY6kYAPQ1FFvMTfnsZGPdzU35B6zr+4gcP71oib4dzYUqMpWG5CU+VdVEYxkevWuxzUtht+pbW9b7wyh9hxPKDjzI9welYX4saEl6E1K/CeBXEWedl0DYg+g+RTo+aF+lbSKLZpiRfJLYEqUtTOFDdIB2Ip7Hc/O1DNPW1FotYhtJCQFFXKPeifqfYUQnylPoix3HHlBLKBk5qjaIWu76knz3skJHK2fg0M41a4j6dhotycuyntnEp6J6Ud4DJcmaOFylN8rzrikhJ7D0rNyEa+5ax2HWZmSj5F6oPaOsNaucXAhtSkjlPNhR/tHeptnns3SA3IjKC0Y5cjv1qj8XNTJkR3LZBPNyj+osf8AlB+DN9DbrlpfUUoO7ZV1UarY9gqzHUNtToa+RJxSi3P6DsdP3G6Nj8UrvqJ0o1qLh9LlJQDJt6S82cbqPamirY/8qJdYqZ1skRHBlLqcY71tzSnraZyLjD+6bUDklJxU0bE9jSa+mLVab5o123yHOadGcU45k78pO1OX0x/NEIrONGnkyGmbshlK1A8rmRnAFBtFznv0dDTbq2lIUSUpVgAfFOG6wWrlb34b4PI6nGe1Z51JFlWBx2I2pSVFZ3z+PSuX4/hs4BQ635mPxRdKNefuXq2ORJ17YiJLbshSvPkZwPemJAtEGK5zNss+MnqlIGKRXCqQo3qWtoKce5AEKO/mzT+tzHgREpUoqWfMVHuaVwLGVLCg2SOpP1K/DcdTZsjepKO+BUefITFhuyVkBLQzmpA3PzS8476lZ05w6uGV8siWgtMb78wrrZ0EyBwv1pJ0PqaPcGeZcYqAkND809q3fpu+wNSWiPcrW8l9l5IJCDug9QfiuuMAYOauvDbiNedCXDxILqlxV4DjCtwR7djRCb6/LbrsBSu42WIu2OVc42z6EbiuaL426V1HHbE2Ui1ycYDbyslSvbFXqWuBqKzyI0eQ26h9OPmq2XRzqio7xGRSLk9Jir+nmyq/SfvpAPilZ9etOvGchIykeooBYIULSllERTiG20qK1E+9VvV3GDSOnI7ijPbmyUDP2zKsLNeMHG5CHfdjs/n+SMenlJ8ky93GdEtkJ6ZcHUxozKeZa1nYCsQ8cOIjuutRufblSLXHVystk+pGxV+9c4qcWrxrl7wApcW2JVlDIOCf9iPWltgcvc1clif/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAQQDAQEAAAAAAAAAAAAACAQFBgcAAQkDAv/EADEQAAEDAwIEBQMCBwAAAAAAAAECAwQABREGIQcSMUETFCJRYQgycRWhIyQzQlJzkf/EABoBAQACAwEAAAAAAAAAAAAAAAUCBAEDBgD/xAAmEQACAgEEAgIBBQAAAAAAAAABAgADEQQFEiExQSJRExRxkdHw/9oADAMBAAIRAxEAPwAbbhc1XSYFS8AEYBG2KQy47sVwc42O6VdjXisDmwDge9O9nlJkJECWguIWcJX3TXpkdxoUoisSVqOACfwKuDQ3Cli6NGXNlJdaSdkoyKs6JoG0xWkobiJI9yM0nptse5QzMAIvpNnfUKHZgo/mCirKfuB/5Wio7Z3ospGhbVJSQ5EbG2MBIBqBav4OIUw5JsiiHRv4R3qV+1PWMowMnqNksqHKtg0onmOT3zSq2zXYUtEhnHOg5GRXzcIUiBKXHlNlt1BwQRSdO6hmiyCDgwUgg9zauuO1Xp9Puhm5yTfZ7YUhJIaSsZBIqjAkqcSkHdRAo4uGttbg6Lt7aUhPoCwB3JFW9EgL8j6kqrVrcM0j18sMqwTTeLElSmBvJjDfKfgdqk1gmRL3ATKhqB7KT3Se4qSobSpRCwDkbg9DUVnabds92F5snpaJ/mIo6KHwOgq+1hpPJfH1E6tdxOVPXuPHkwDg4PzWeT9htTnbnWJ8bx424/uH+J9qVeX6EdDWmzXY7iKa3kPMH3j9oNuVZ1XuA0lMhgZdCR1TQ0jPMAa6DajtqJtjnMLSClbZBB70A15j+WvM1nGyHlj96Me5bWyIRrwpfmPcShfI8hSeiSDR18OpaJujrc4kgnw0p2+BQJK/G9EZ9OOtkeT/AEKa7/EQoqZyepParOjYc+P3OY3mx6afzL68/tL5ffMdwFe1KGpaVDm8ROO4NY+yiWyQr7qit2iyYeeUK5KTCLZ8T0Ybpd0NgyDItxQ1nN0W5HuNhZzHWvlkoxkcvuPaplw54i2zWEJvkWlMkjdPsahlwQ3LS41KbC2VDHIsZzTdo3S7Fv1Kh+2oW2CQSkHatGt2jKF1OBj/ABi+m3Vl6PmXlflpiWWbIXsltsnNc9L895i/T3R0U+s/uaLn6jNcNWDSSrQw+k3CajkWAd0jHWg2yVqJWfUd65DaGexWsfxnr+4zdZzxMXjOxzSm2T5Fumtyoiy282cgg4rdwgvwZHhPtlCsZwaSYJGaYzjsTQwDDDCFBw042wJTDUPUaxFkABIeUfSaumJd7Rc2EKZmsPJVuMHrXPjHq2FLI10uMb+hNktgezh2qx+pYj5eYE2xVK/Ok8R9Q9J8OwNguypDLSRucqG1VtrTizpjSUd1rTpRcLhgjxEHISfnNCvIvF0kDlenylj/AGnFIDzKUSokq71XtNlw4u54/UvUaEVnLHJjrqi/ztSXV2fc3VLcWSQCdh8CmhP3e35rXKr22r3iRnZUhDTSCpajgAVgKFGAOpfn/9k=" alt="" />
                             <div class="about">
-                                <div class="name">The Sims™ 4</div>
+                                <div class="name">Krita</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Adventure, Casual, Simulation, Free to Play
+                                        Animation &amp; Modeling, Design &amp; Illustration, Photo Editing
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -88,7 +88,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        37 hours played
+                                        17 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -96,7 +96,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 31 Dec 2023
+                                        Last played on 6 Jan 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
