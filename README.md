@@ -335,7 +335,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 🎮 Steam playtime leaderboard
 ```text
 🎮 Elite Dangerous                  🕘 274 hrs 1 mins
-🎮 Deus Ex: Mankind Divided™        🕘 266 hrs 22 mins
+🎮 Deus Ex: Mankind Divided™        🕘 266 hrs 26 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 240 hrs 36 mins
 🎮 VRChat                           🕘 223 hrs 3 mins
 🔫 Counter-Strike 2                 🕘 184 hrs 46 mins
