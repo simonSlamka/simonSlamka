@@ -100,7 +100,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 
 <p align="center">
 	<a>
-		<img src="https://raw.githubusercontent.com/simonSlamka/simonSlamka/main/metrics.plugin.16personalities.svg"/>
+		<img src="https://github.com/simonSlamka/simonSlamka/blob/b31de57a13bff648f71a660dd5aab965dc23674c/mbti.png"/>
 
 </p>
 
