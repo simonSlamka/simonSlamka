@@ -87,7 +87,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 	<br />For coding tracking, I use <a href="https://wakatime.com/simonSlamka">WakaTime</a>.
 </p>
 </br>
-
+<!------
 ### Big Five
 
 <p align="center">
@@ -130,6 +130,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
   		<img src="https://github.com/simonSlamka/simonSlamka/blob/788de59eb3843460f01ef59d3c5f8465f6cfdf8a/Screenshot%20from%202023-12-25%2013-15-38.png"/>
 
 </p>
+----->
 
 <!--
 <p align="center">My last watched show/movie
