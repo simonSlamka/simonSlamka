@@ -515,7 +515,7 @@ jobs:
           base: ""
           plugin_code: yes
           plugin_code_languages: python, c++, javascript, c, bash
-          plugin_code_visibility: all
+          plugin_code_visibility: public
           plugin_code_load: 500
 
       - name: Recently played games
