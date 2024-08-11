@@ -281,10 +281,13 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 			alt="Distro - Gentoo" />
 	</a>
 	<a>
+		<img src="https://img.shields.io/badge/Lang-C-informational?style=flat&color=0000ff" alt="Lang - C" />
+	</a>
+	<a>
 		<img src="https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff" alt="Lang - C++" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Lang-JS-informational?style=flat&color=0000ff" alt="Lang - JS" />
+		<img src="https://img.shields.io/badge/Lang-Rust-informational?style=flat&color=0000ff" alt="Lang - Rust" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Lang-Python-informational?style=flat&color=0000ff" alt="Lang - Python" />
