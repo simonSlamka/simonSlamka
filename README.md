@@ -268,7 +268,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Distro-Debian%2012-informational?style=flat&color=0000ff"
-			alt="Distro - Debian 12" />
+			alt="Distro - Fedora 40" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Distro-SteamOS-informational?style=flat&color=0000ff" alt="Distro - Arch" />
@@ -287,18 +287,8 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 		<img src="https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff" alt="Lang - C++" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Lang-Rust-informational?style=flat&color=0000ff" alt="Lang - Rust" />
-	</a>
-	<a>
-		<img src="https://img.shields.io/badge/Lang-Python-informational?style=flat&color=0000ff" alt="Lang - Python" />
-	</a>
-	<a>
 		<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff"
-			alt="Editor - VSCode" />
-	</a>
-	<a>
-		<img src="https://img.shields.io/badge/Editor-Codium-informational?style=flat&color=0000ff"
-			alt="Editor - Codium" />
+			alt="Editor - Neovim" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=0000ff" alt="Shell - zsh" />
@@ -307,22 +297,9 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 		<img src="https://img.shields.io/badge/Cloud-Linode-informational?style=flat&color=0000ff"
 			alt="Cloud - Linode" />
 	</a>
-	<a>
-		<img src="https://img.shields.io/badge/Cloud-Hetzner-informational?style=flat&color=0000ff"
-			alt="Cloud - Hetzner" />
-	</a>
 </p>
 
 ## Misc
-
-<p align="center">
-	<ul>
-		<li>🔭 I’m currently working on ML stuff</li>
-		<li>🌱 <s>I’m currently learning Java</s>
-			<-- No, just no. Don't judge me.</li> <li>😄 Pronouns: He/Him
-		</li>
-	</ul>
-</p>
 
 <p align="center">
 	<a>
