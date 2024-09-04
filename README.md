@@ -267,14 +267,14 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 		<img src="https://img.shields.io/badge/OS-GNU%2FLinux-informational?style=flat&color=0000ff" alt="GNU/Linux" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Distro-Debian%2012-informational?style=flat&color=0000ff"
+		<img src="https://img.shields.io/badge/Distro-Fedora%2040-informational?style=flat&color=0000ff"
 			alt="Distro - Fedora 40" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Distro-SteamOS-informational?style=flat&color=0000ff" alt="Distro - Arch" />
+		<img src="https://img.shields.io/badge/Distro-SteamOS-informational?style=flat&color=0000ff" alt="Distro - SteamOS" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Distro-Arch-informational?style=flat&color=0000ff" alt="Distro - SteamOS" />
+		<img src="https://img.shields.io/badge/Distro-Arch-informational?style=flat&color=0000ff" alt="Distro - Arch" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Distro-Gentoo-informational?style=flat&color=0000ff"
@@ -287,7 +287,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 		<img src="https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff" alt="Lang - C++" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&color=0000ff"
+		<img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat&color=0000ff"
 			alt="Editor - Neovim" />
 	</a>
 	<a>
