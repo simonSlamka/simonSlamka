@@ -267,8 +267,8 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 		<img src="https://img.shields.io/badge/OS-GNU%2FLinux-informational?style=flat&color=0000ff" alt="GNU/Linux" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Distro-Fedora%2040-informational?style=flat&color=0000ff"
-			alt="Distro - Fedora 40" />
+		<img src="https://img.shields.io/badge/Distro-Fedora%2041-informational?style=flat&color=0000ff"
+			alt="Distro - Fedora 41" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Distro-SteamOS-informational?style=flat&color=0000ff" alt="Distro - SteamOS" />
