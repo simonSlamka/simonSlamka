@@ -284,7 +284,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 		<img src="https://img.shields.io/badge/Lang-C-informational?style=flat&color=0000ff" alt="Lang - C" />
 	</a>
 	<a>
-		<img src="https://img.shields.io/badge/Lang-C++-informational?style=flat&color=0000ff" alt="Lang - C++" />
+		<img src="https://img.shields.io/badge/Lang-NASM-informational?style=flat&color=0000ff" alt="Lang - NASM" />
 	</a>
 	<a>
 		<img src="https://img.shields.io/badge/Editor-Neovim-informational?style=flat&color=0000ff"
