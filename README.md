@@ -319,7 +319,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 🎮 Deus Ex: Mankind Divided™        🕘 266 hrs 51 mins
 🎮 Deus Ex: Human Revolution - Director's Cut 🕘 242 hrs 26 mins
 🎮 VRChat                           🕘 223 hrs 3 mins
-🔫 Counter-Strike 2                 🕘 197 hrs 35 mins
+🔫 Counter-Strike 2                 🕘 201 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
