@@ -13,5 +13,5 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USERNAME: simonSlamka
+          GH_USERNAME: danglingptr0x0
           GIST_ID: 8ba88bded8b5b5e8423f17ad06ac39d4
