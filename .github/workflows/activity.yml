@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
-      - uses: simonSlamka/activity-box@master
+      - uses: actions/checkout@v4
+      - uses: danglingptr0x0/activity-box@master
         env:
           GH_PAT: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
