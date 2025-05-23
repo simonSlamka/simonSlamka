@@ -319,7 +319,7 @@ My bio and more <a href=https://simtoon.eu/>in my Mind</a>
 ```text
 🎮 Elite Dangerous                  🕘 327 hrs 8 mins
 🎮 Deus Ex: Mankind Divided™        🕘 266 hrs 51 mins
-🎮 Deus Ex: Human Revolution - Director's Cut 🕘 247 hrs 45 mins
+🎮 Deus Ex: Human Revolution - Director's Cut 🕘 248 hrs 30 mins
 🔫 Counter-Strike 2                 🕘 240 hrs 57 mins
 🎮 VRChat                           🕘 223 hrs 3 mins
 ```
